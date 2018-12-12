@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "30"
+    },
+    "_skin_": "s4016c4b1ea7476280f1524a5438bd1a",
+    "_text_": "Simulate Now",
+    "_top_": {
+        "type": "string",
+        "value": "98dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4016c4b1ea7476280f1524a5438bd1a",
+    "id": "btnSimulateKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cf12c466b9a24e91939a1fbb9a4dcd8f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e8047097804c41b887b8f3c8e1e245fe",
+    "parent": "flxSimulateContainerKA",
+    "pf": "frmLoansDashboardKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

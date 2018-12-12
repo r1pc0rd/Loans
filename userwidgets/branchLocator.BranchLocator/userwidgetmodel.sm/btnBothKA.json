@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s32ec392802f4b72ab3df5642431320d",
+    "_text_": "BOTH",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa19cde02d494050b96d9e1b60249c66",
+    "id": "btnBothKA",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e45212d5a6af4d569addc8c8edaff9da",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ha6e753ca0b342e1876ccc2aa17ecd5a",
+    "paddinginpixel": false,
+    "parent": "searchAccountFilters",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

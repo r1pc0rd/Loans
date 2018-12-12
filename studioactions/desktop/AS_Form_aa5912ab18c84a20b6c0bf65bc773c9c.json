@@ -1,0 +1,28 @@
+{
+    "AS_Form_aa5912ab18c84a20b6c0bf65bc773c9c": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.onInit.call(this);\nthis.animateFilledLabel();\nthis.fillDataAccToUserProfileData();",
+                "id": "ADD_SNIPPET__i0049a86825146ec8ee00f9b0d2ad351",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_aa5912ab18c84a20b6c0bf65bc773c9c",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

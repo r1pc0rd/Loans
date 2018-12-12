@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "581px"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9ac0614c87f48b480c22d1b08dcaadc",
+    "_text_": "Run and Grow your business with our Loan Solution. Instant Approval. Secure Application. No Credit Check",
+    "_top_": {
+        "type": "string",
+        "value": "295dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {
+        "a11yLabel": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. "
+    },
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblBeyondBankingDesc",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f04e1b1d75a84a088b0fb2437a66dcad",
+    "name": "kony.ui.Label",
+    "parent": "flxMain",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "contentAlignment": 4,
+            "height": {
+                "type": "string",
+                "value": "45dp"
+            },
+            "isVisible": true,
+            "top": {
+                "type": "string",
+                "value": "382dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "42%"
+            }
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 20
+}

@@ -1,0 +1,93 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "93dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxFirstPointKA",
+        "flxSecondPointKA",
+        "flxThirdPointKA",
+        "imgDottedSeparatorKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxContainerKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bd9b75e4b24b4d76bb517bbcea76601e",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyHorizontalStatusRoadmap0hb1400b4d8934b",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "3%"
+            },
+            "right": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "94%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "4%"
+            },
+            "right": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "92%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

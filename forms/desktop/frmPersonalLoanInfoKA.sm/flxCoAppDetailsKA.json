@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "flxFillCoAppDetailsTitleKA",
+        "flxCoAppDetailsFormKA",
+        "lblCoSeperatorKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCoAppDetailsKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a6962312f16a4f868798ea618f7e22e2",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPurposeLoanKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc39ff854bc743da991764ab8c71c106",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sca3063728f34c668378965cba7491ac",
+    "id": "backButton",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "b34a395f5a9446e0b22a3252c8d8a561",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a47c9119783347a3bd2509674a325f3c",
+    "parent": "titleBarLocator",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Button",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

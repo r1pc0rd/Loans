@@ -1,0 +1,105 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdc82ba24d044110b8ece6f713b1f716",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "breakpointInfo": {
+        "b1": {
+            "width": 1400
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        },
+        "b4": {
+            "width": 768
+        }
+    },
+    "canUpdateUI": true,
+    "canvasWidth": 1400,
+    "children": [
+        "flxMain",
+        "flxLoading"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "CopyFrmLoginKAController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "ide_onBreakpointChange": "AS_Form_ad0237e334a740b7907af00ad960a179",
+        "needAppMenu": false
+    },
+    "device": "desktopweb",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "friendlyName": "FrmLoginKA",
+    "id": "CopyFrmLoginKA",
+    "ide_postShow": "AS_Form_a22f4690aa5e44d7a97e25548f5a6bb1",
+    "ide_preShow": "AS_Form_ff4b812fb3ed4ad48eda3a2b05eed7f2",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kiosk": {
+        "psp": {
+            "enableScrolling": true,
+            "pagingEnabled": false
+        }
+    },
+    "kuid": "j0329c6c64654440bf366abc8de81b74",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s6fad068d13e4326ba6ecd6394ac1170",
+    "titlebar": true,
+    "type": 3,
+    "vizProps": {
+        "globalRespDesignEnabled": true
+    },
+    "wType": "Form"
+}

@@ -1,0 +1,24 @@
+{
+    "AS_TextField_a40f6453f7e04b5e9aa96de86881fecc": {
+        "id": "AS_TextField_a40f6453f7e04b5e9aa96de86881fecc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEndEditing_cfefff9ec6524b72bf02c5a80c511e14",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "checkThatAllFieldsAreFilled",
+            "display": "checkThatAllFieldsAreFilled",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

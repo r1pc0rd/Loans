@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3c94bf505a042afb9d6c1d7e09d5821",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxNumberTwoKA",
+        "lblLoanBlockTitleKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxLoanBlockKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ia7d6d88efc144f29459c803fbde95c2",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPurposeLoanKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b3": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

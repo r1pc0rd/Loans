@@ -1,0 +1,24 @@
+{
+    "AS_Form_f070af3b96c1438a89356660c6a2bfff": {
+        "id": "AS_Form_f070af3b96c1438a89356660c6a2bfff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fa9f66b226f24ea8a6861a0338de7948",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.frmPreLoginKApostShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s0b44b815475404f9a2938117cdf4eff",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "116dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0b44b815475404f9a2938117cdf4eff",
+    "id": "btnApplyNowKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d20411f75271435da0b5864db6bd22b9",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_adf4b4d5c9d445d48b94655045a5deeb",
+    "parent": "flxbrandingContainerKA",
+    "pf": "frmDashboardNewKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 10
+}

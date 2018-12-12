@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SuccessMessageCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ea65f52db3e04947bf0eb91a09ed4edc",
+                "srcKUID": "u5f2ab861ae545bf80a1a4b08c9fcb50",
+                "wType": "FlexContainer"
+            },
+            "isVisible": false
+        },
+        "flxFFFFFFKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hd3f04ca4aa743bc993a2d86fb8afbda",
+                "srcKUID": "u4438822894748e9acf753b97d8fb33d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSuccessMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "da99a6e20b0346efbe9c356f9adf4afa",
+                "srcKUID": "u3134405f1f845d483ef0784126d3d2b",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgAlertIconKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c606ee4dcd2e42889da0856ceb63eff4",
+                "srcKUID": "u93a0ab18daf4333862da67967a29ca7",
+                "wType": "Image"
+            }
+        },
+        "lblExceptionMessageKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g7fca23db65d4a7a8eba65d7ed80a313",
+                "srcKUID": "uebfcf16e15b4146b5be4845ee1a0af5",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "successUpdatePassAlert",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": false,
+    "kuid": "ea65f52db3e04947bf0eb91a09ed4edc",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxNamePassKA",
+    "pf": "frmPreLoginKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "u5f2ab861ae545bf80a1a4b08c9fcb50",
+    "wType": "UserWidgetInstance"
+}

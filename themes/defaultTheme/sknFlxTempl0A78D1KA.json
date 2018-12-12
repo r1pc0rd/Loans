@@ -1,0 +1,87 @@
+{
+  "android": {
+    "font_name": "default"
+  },
+  "androidwearos": {
+    "font_name": "default"
+  },
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "ipad": {
+    "font_name": "System"
+  },
+  "iphone": {
+    "font_name": "System"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "None",
+    "isForked": true
+  },
+  "kuid": "se492ecb3f97459d9554e7af4b572a36",
+  "spaan": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spabb": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaip": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaipad": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "customCSS": "}div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li{\n position: relative; \n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:hover *[kwidgettype=\"Label\"]\n{\n  font: normal normal 18px SourceSansPro-SemiBold !important; \n  cursor:pointer;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul > li:hover:before{\n  content: '';\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 60%;\n  height: 4px;\n  background: #0A78D1;\n  max-width: 206px;\n  font: normal normal 18px SourceSansPro-SemiBold !important;\n}{",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "default"
+  },
+  "wType": "FlexContainer",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {
+    "font_name": "None"
+  },
+  "winphone8": {
+    "font_name": "None"
+  }
+}

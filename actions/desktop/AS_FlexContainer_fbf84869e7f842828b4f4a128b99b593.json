@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_fbf84869e7f842828b4f4a128b99b593": {
+        "id": "AS_FlexContainer_fbf84869e7f842828b4f4a128b99b593",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a424271a26fe4bb1a9e4b8893febc583",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showApplicationStatus",
+            "display": "showApplicationStatus",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

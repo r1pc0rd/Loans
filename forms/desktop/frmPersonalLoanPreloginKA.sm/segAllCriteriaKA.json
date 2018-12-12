@@ -1,0 +1,230 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "LabelNumberKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            },
+            "lblBorderOne": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "It is really fast. And if you are our member, we will fill most of it for you."
+            },
+            "lblMainDetailKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fill out a short application"
+            }
+        },
+        {
+            "LabelNumberKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "lblBorderOne": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Submit your application and we will very quickly look at it. And we will notify you during the entire process."
+            },
+            "lblMainDetailKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quick approval"
+            }
+        },
+        {
+            "LabelNumberKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3"
+            },
+            "lblBorderOne": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Confirm the agreements and we will fund your account."
+            },
+            "lblMainDetailKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "e-sign agreements and get your money"
+            }
+        },
+        {
+            "LabelNumberKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4"
+            },
+            "lblBorderOne": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "lblDescriptionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "At any time, if you need help, we got your back: our team is 100% U.S based to support you."
+            },
+            "lblMainDetailKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "It is all about you"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "600dp"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAllCriteriaKA",
+    "info": null,
+    "invokedProperty": "unselectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a645117a35254e61a33ac725848d87b0",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxLoansListKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {},
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "5%"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d764a1bf46ba4810b71c543aaa5dc6e6",
+    "rowcounter": 3,
+    "rowfocusskin": "s06af371740f4726a20d784e45e5eff8",
+    "rowskin": "s2bf2c2926524821bd158578bcedaaa5",
+    "rowtemplate": "CopyflxMainPersonalLoansStepsKA",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectimage": "radioactive_1.png",
+    "selectionbehavior": "singleselect",
+    "selectionbehaviorconfig": {
+        "imageIdentifier": "imgRadioButtonKA",
+        "selectedStateImage": "radioactive_1.png",
+        "unselectedStateImage": "radioinactive_1.png"
+    },
+    "selectionindicator": "imgRadioButtonKA",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 712,
+        "widthRatio": 0
+    },
+    "unselectimage": "radioinactive_1.png",
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxMainPersonalLoansStepsKA": "CopyflxMainPersonalLoansStepsKA",
+        "LabelNumberKA": "LabelNumberKA",
+        "lblBorderOne": "lblBorderOne",
+        "lblDescriptionKA": "lblDescriptionKA",
+        "lblMainDetailKA": "lblMainDetailKA"
+    },
+    "zindex": 5
+}

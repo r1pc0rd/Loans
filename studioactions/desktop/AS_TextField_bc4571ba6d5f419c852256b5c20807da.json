@@ -1,0 +1,45 @@
+{
+    "AS_TextField_bc4571ba6d5f419c852256b5c20807da": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateReturningPlaceholder",
+                "id": "INVOKE_FUNCTION___ba5acc33eaad452598b3dbbcf4ab468d",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblApartmentKA\""
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "animateReturningPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_bc4571ba6d5f419c852256b5c20807da",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

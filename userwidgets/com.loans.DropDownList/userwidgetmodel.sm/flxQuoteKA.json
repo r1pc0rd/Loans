@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_skin_": "sa7170b3a22a4e8c966d7e89dd567420",
+    "_top_": {
+        "type": "string",
+        "value": "-10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxQuoteKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a0b7ce6a7f58401cab848eae514fe6d2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "DropDownList",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 4
+}

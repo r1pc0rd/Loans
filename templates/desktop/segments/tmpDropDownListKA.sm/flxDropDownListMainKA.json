@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se492ecb3f97459d9554e7af4b572a36",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblLineKA",
+        "lblValueKA"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "flxDropDownListMainKAController"
+        }
+    },
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "focusSkin": "s607e0766b3e440b9261676f0892e97f",
+        "hoverSkin": "s53ec5deac4f40bcae401fcafdd7654e"
+    },
+    "enablescrolling": true,
+    "id": "flxDropDownListMainKA",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a0de2ac7a44448a18ac9fa067188198a",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "tmpDropDownListKA",
+    "pf": "tmpDropDownListKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Button_i6ba812c75b04bc6b5877cb12b58976b": {
+        "id": "AS_Button_i6ba812c75b04bc6b5877cb12b58976b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocatorKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ed7df1ef3041460c80bd8d9dee38b555"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ab2d5dc372a845d3ac88737f84ef4cf5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "friendlyName": "frmLoginKA",
+            "formKUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

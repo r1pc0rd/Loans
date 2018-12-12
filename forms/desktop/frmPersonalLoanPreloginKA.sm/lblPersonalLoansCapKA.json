@@ -1,0 +1,116 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saf564008d8e4549a2fe157739fce9b1",
+    "_text_": "Start living your dreams with personal loans up to",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblPersonalLoansCapKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f53534d31be5482fad36c46ba9b2cef5",
+    "name": "kony.ui.Label",
+    "parent": "FlexGroup0j24eb3afe26245",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "contentAlignment": 7,
+            "skin": "saf564008d8e4549a2fe157739fce9b1",
+            "text": "Start living your dreams with personal loans up to"
+        },
+        "b2": {
+            "contentAlignment": 7,
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "0.00%"
+            },
+            "skin": "saf564008d8e4549a2fe157739fce9b1"
+        },
+        "b3": {
+            "contentAlignment": 7,
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "0%"
+            },
+            "text": "Start living your dreams with personal loans up to"
+        },
+        "b4": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "6%"
+            },
+            "skin": "sa843bf13c954c72b80ccd44bbc4575c",
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

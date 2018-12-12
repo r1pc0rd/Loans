@@ -1,0 +1,24 @@
+{
+    "AS_Switch_h0ee05d3b452401aac5310b62d6b1b9a": {
+        "id": "AS_Switch_h0ee05d3b452401aac5310b62d6b1b9a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a8f1c32eb55042749ed7e16cd6fb859a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.changeSkinOfSwitch(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

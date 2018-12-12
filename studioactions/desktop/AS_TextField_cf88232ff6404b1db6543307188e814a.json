@@ -1,0 +1,38 @@
+{
+    "AS_TextField_cf88232ff6404b1db6543307188e814a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateTextPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onBeginEditing_bd17e3b16ae54b9880624642bdeeced9",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblStateKA\""
+                    }
+                ],
+                "sequenceKUID": "animateTextPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_cf88232ff6404b1db6543307188e814a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

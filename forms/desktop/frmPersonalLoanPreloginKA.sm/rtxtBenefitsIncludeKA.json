@@ -1,0 +1,137 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "175dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "sb66919571ca433ba34cf74250841560",
+    "_text_": "•  Competitive personal loan rates<br>•  No collateral requirements<br>•  Affordable borrowing<br>•  Rate discount with set up of recurring auto-debit loan payments<br>•  Simplified budgeting<br>•  Fast access to your funds",
+    "_top_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxtBenefitsIncludeKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j80b0e1d1af242c79382ea13e2719df0",
+    "linkskin": "s48ee14742f442a7bd1808d6fd42f97a",
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "flxPersonalLoansContentKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "contentAlignment": 4,
+            "padding": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "skin": "s744f5216cff4691952ad7ae898d790b"
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "30%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "s744f5216cff4691952ad7ae898d790b",
+            "top": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "25%"
+            },
+            "left": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "padding": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "skin": "sb66919571ca433ba34cf74250841560",
+            "top": {
+                "type": "string",
+                "value": "30%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "left": {
+                "type": "string",
+                "value": "6%"
+            },
+            "right": {
+                "type": "string",
+                "value": "6%"
+            },
+            "skin": "se4e0327c1954d04bb9138db07b9bb49",
+            "top": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

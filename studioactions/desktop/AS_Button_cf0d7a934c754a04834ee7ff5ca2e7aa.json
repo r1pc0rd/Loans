@@ -1,0 +1,28 @@
+{
+    "AS_Button_cf0d7a934c754a04834ee7ff5ca2e7aa": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.view.flxClosePopupKA.isVisible=true;",
+                "id": "ADD_SNIPPET__d7b34ff28dc04c31951d7eaae09d4db0",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Button_cf0d7a934c754a04834ee7ff5ca2e7aa",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

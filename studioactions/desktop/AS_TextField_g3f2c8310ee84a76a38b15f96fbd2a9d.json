@@ -1,0 +1,38 @@
+{
+    "AS_TextField_g3f2c8310ee84a76a38b15f96fbd2a9d": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateTextPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onBeginEditing_b448521cfe344f658031a1e835c05c2e",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblMiddleNameKA\""
+                    }
+                ],
+                "sequenceKUID": "animateTextPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_g3f2c8310ee84a76a38b15f96fbd2a9d",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

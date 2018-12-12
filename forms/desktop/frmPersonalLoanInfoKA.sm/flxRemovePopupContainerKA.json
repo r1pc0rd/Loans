@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "238dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf7db50899fa4fb98d2510589021616a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "500dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxPopupHeaderKA",
+        "flxPopupBodyKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxRemovePopupContainerKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e8d52e31f2b94654ac4e95b8d3685cbd",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxRemovePopupKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "sf7db50899fa4fb98d2510589021616a"
+        },
+        "b2": {
+            "skin": "sf7db50899fa4fb98d2510589021616a"
+        },
+        "b3": {
+            "skin": "sf7db50899fa4fb98d2510589021616a"
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "280dp"
+            },
+            "skin": "sf7db50899fa4fb98d2510589021616a",
+            "width": {
+                "type": "string",
+                "value": "300dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

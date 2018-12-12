@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa0475ab3cce4ac69af63eaeaf52bf79",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1fc8f74950540ab921b45670ee12428",
+    "id": "hamburgerButton",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "d2cfbf9957274b31afc1d3a957adcea0",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "titleBarLocator",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Button",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

@@ -1,0 +1,103 @@
+{
+  "android": {
+    "font_color": "ffffffcc",
+    "font_size": 27,
+    "isForked": true
+  },
+  "androidwearos": {
+    "font_color": "ffffffcc",
+    "font_size": 54,
+    "isForked": true
+  },
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_color": "ffffffcc",
+    "font_name": "SourceSansPro-Regular",
+    "font_size": 94,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 94,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_color": "ffffffcc",
+    "font_size": 54,
+    "isForked": true
+  },
+  "iphone": {
+    "font_color": "ffffffcc",
+    "font_size": 36,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_color": "ffffffcc",
+    "font_size": 94,
+    "isForked": true
+  },
+  "kuid": "s9ac0614c87f48b480c22d1b08dcaadc",
+  "spaan": {
+    "font_color": "ffffffcc",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_color": "ffffffcc",
+    "font_size": 83,
+    "isForked": true
+  },
+  "spabb": {
+    "font_color": "ffffffcc",
+    "font_size": 125,
+    "isForked": true
+  },
+  "spaip": {
+    "font_color": "ffffffcc",
+    "font_size": 125,
+    "isForked": true
+  },
+  "spaipad": {
+    "font_color": "ffffffcc",
+    "font_size": 88,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_color": "ffffffcc",
+    "font_size": 88,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_color": "ffffffcc",
+    "font_size": 125,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_color": "ffffffcc",
+    "font_size": 89,
+    "isForked": true
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_color": "ffffffcc",
+    "font_size": 54,
+    "isForked": true
+  },
+  "windows8": {
+    "font_color": "ffffffcc",
+    "font_size": 37,
+    "isForked": true
+  },
+  "winphone8": {
+    "font_color": "ffffffcc",
+    "font_size": 50,
+    "isForked": true
+  }
+}

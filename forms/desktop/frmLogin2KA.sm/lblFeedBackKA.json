@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s9e4f10138e34b5f805b0f22565ea062",
+    "_text_": "Contact Us",
+    "_width_": {
+        "type": "string",
+        "value": "74dp"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {
+        "a11yLabel": "p"
+    },
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblFeedBackKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ef2f74f1cf394c6ca13f1805552d1d9f",
+    "name": "kony.ui.Label",
+    "parent": "flxFeedBackKA",
+    "pf": "frmLogin2KA",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "sebec5cb79694a768595dc3bf297fc71",
+            "text": "Feedback"
+        },
+        "b2": {
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "sebec5cb79694a768595dc3bf297fc71",
+            "text": "Feedback"
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "21dp"
+            },
+            "skin": "s9e4f10138e34b5f805b0f22565ea062",
+            "text": "Feedback"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "kony.loans.simulation.contactUs",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

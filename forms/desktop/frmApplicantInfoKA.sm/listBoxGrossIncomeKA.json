@@ -1,0 +1,133 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-0.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "sb67a37d6a0644848af4264a028cab32",
+    "_top_": {
+        "type": "string",
+        "value": "-4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "110.80%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {
+        "focusSkin": "s02f46d2d3654372aa9af2e5b4a49c36"
+    },
+    "groupcells": false,
+    "id": "listBoxGrossIncomeKA",
+    "ide_onSelection": "AS_ListBox_d3daeec04474453eb16d323a4a2064d7",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "psp": {
+            "placeholder": "Select one"
+        }
+    },
+    "kuid": "adef499261884cddbc08e50e40af161c",
+    "masterdata": [
+        [
+            "Suffix",
+            "Suffix"
+        ],
+        [
+            "Sr",
+            "Sr"
+        ],
+        [
+            "Jr",
+            "Jr"
+        ],
+        [
+            "II",
+            "II"
+        ],
+        [
+            "III",
+            "III"
+        ],
+        [
+            "IV",
+            "IV"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flxListBoxGrossIncomeKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "-0.40%"
+            },
+            "skin": "sf5742105806463cbf4f30fa84a58ed3"
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "0%"
+            },
+            "top": {
+                "type": "string",
+                "value": "-1dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "110.80%"
+            }
+        },
+        "b4": {
+            "skin": "sb67a37d6a0644848af4264a028cab32"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "Suffix",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "Suffix",
+        "Suffix"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

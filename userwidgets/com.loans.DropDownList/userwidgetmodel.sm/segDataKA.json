@@ -1,0 +1,171 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "165dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "desktop": {
+        "_data_": [
+            {
+                "lblLineKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 1"
+                },
+                "lblValueKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 1"
+                }
+            },
+            {
+                "lblLineKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 2"
+                },
+                "lblValueKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 2"
+                }
+            },
+            {
+                "lblLineKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 3"
+                },
+                "lblValueKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 3"
+                }
+            },
+            {
+                "lblLineKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 4"
+                },
+                "lblValueKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 4"
+                }
+            },
+            {
+                "lblLineKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 5"
+                },
+                "lblValueKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Type 5"
+                }
+            }
+        ],
+        "rowTemplateId": "h6c9d785d75f48fba8b76916982d7315",
+        "rowtemplate": "flxDropDownListMainKA",
+        "widgetdatamap": {
+            "CopyflxCCAppHeaderHolder": "CopyflxCCAppHeaderHolder",
+            "CopyflxCCAppRowHolder": "CopyflxCCAppRowHolder",
+            "flxDropDownListMainKA": "flxDropDownListMainKA",
+            "lblLineKA": "lblLineKA",
+            "lblValueKA": "lblValueKA"
+        }
+    },
+    "disabledSkins": {
+        "rowFocusSkin": "s06af371740f4726a20d784e45e5eff8"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDataKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d1800f0c9b3c4542843ba91677b75a41",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxsegDataKA",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": true,
+    "rowcounter": 4,
+    "rowfocusskin": null,
+    "rowskin": "sce83eec4f114a7184925d07bfc67e72",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "00000064",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDropDownListMainKA": "flxDropDownListMainKA",
+        "lblLineKA": "lblLineKA",
+        "lblValueKA": "lblValueKA"
+    },
+    "widgetskin": "s9c76bkartoac44c9b0oles573b9kofca",
+    "zindex": 3
+}

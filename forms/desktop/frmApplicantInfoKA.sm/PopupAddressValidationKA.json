@@ -1,0 +1,360 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {},
+    "_skin_": "s8ffa734f3f646bf9de6c086dd422924",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LblQuestionKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d3e70e000a944c80ba0613cb808ecdb0",
+                "srcKUID": "a4ab7d69462f4610b8332c17254b9a9a",
+                "wType": "Label"
+            }
+        },
+        "PopupAddressValidation": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "f7c47a32785e4e5fa16a15e06d843c6a",
+                "srcKUID": "e82ae354ca5d47fd94f23f3071cc554d",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnPopupKeepOriginalKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af105a35d5d14ea6aca73045842c2a9c",
+                "srcKUID": "jeac4bc28d914d778c397dcce6890c04",
+                "wType": "Button"
+            }
+        },
+        "btnPopupUpdateKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bae7f15dbb444aff9b65b577d4fed221",
+                "srcKUID": "h396d27e4df54c1580bf69847324ff91",
+                "wType": "Button"
+            }
+        },
+        "flxAddressHolderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cbe4efa2404c43d3aefefba23a6ecb19",
+                "srcKUID": "cf668b9f4be642cd8f4eb51317fe5cb3",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxBtnContainerKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g30c4f8fd4f84bc8a13f92e9754d2f79",
+                "srcKUID": "df326937fe1443a89fa3535da78212d5",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxBtnHolderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eb7397fa8dfd450a8fe6309c5350dffe",
+                "srcKUID": "b5ae06989c654080976806d385aa2942",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxCityKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g253b649e3354623ada1c741943bb0f1",
+                "srcKUID": "ca1a9aba1611482e8bf5842c6dabf7fe",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxEnteredAddressHolderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bc792d2113fa49e688e536984909a97c",
+                "srcKUID": "a7e301692d48410795f3e10c1c48d8bf",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxEnteredAddressTitleKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g4abaad6d998402eb93605d8802d856a",
+                "srcKUID": "a494627c67434c3e81b7a99278b4135c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxErrorKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j6d49bb9c4a94e8a8dfeff723bf6b1f0",
+                "srcKUID": "be4d696426eb4061ba08a90dae060ea7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeaderPopupKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af376c2e44fe4c3ca4edfe4f0457bf3d",
+                "srcKUID": "d59a971dd6ce44b19af5e7ecc1c26d3b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHorizontalLine1KA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b012a25ef6864faabd60949d77d0b1de",
+                "srcKUID": "a3319fe3404e4312aec59fa00fec5bb5",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHorizontalLine2KA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bf05301145994a88b49605ead67f52c2",
+                "srcKUID": "c7ddb328b40a40c3be9e27846f5f6fc2",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxPopupKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h9578ab9b37640c79f355dc47df5418b",
+                "srcKUID": "gd0bbe83616246a0a1283f2d1c6360e1",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxQuestionKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ba8e958ae02c43fd8b9908c293b4b9fb",
+                "srcKUID": "jd224feac3dd45a299f75d1322d98c54",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxStateCountryZipKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e6dbea8c8b10483abe9ea5a72edddfbe",
+                "srcKUID": "f174946b11504bd0bfb240fd63104598",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxStreetApartKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d50a168c10074bb8b22687e004fa7dab",
+                "srcKUID": "c5a714fba3514b3eb0fdfeaf9bce3ca6",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUspsAddressKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dd75380002f44828a2e40cde0a24dc68",
+                "srcKUID": "c1ba2c50d1bc42ac91cb36c44031345f",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUspsAddressTitleKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g234e28370914292b8fa7ffbba530826",
+                "srcKUID": "fecc94038eb64acb8e95e44bf6ab69b2",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUspsCityKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e0cef7945ae54abebd5e052819ed5151",
+                "srcKUID": "i8b129fe3dc142ee8032153c6df744ee",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUspsStateCountryZipKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cef69a0f14ee40ce98b12a2618d87519",
+                "srcKUID": "c614095e3fba472aba7ed026920433a3",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUspsStreetApartKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fd1a8cfe28704b99afbb079386d16e5f",
+                "srcKUID": "f0ef81b899884f9bab82e6b6d3e67ccc",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgCloseKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c87c88d40baf4d7c908e0a0d817aec3a",
+                "srcKUID": "be9ac905bd2648eb88f7310073e6fb58",
+                "wType": "Image"
+            }
+        },
+        "lblCityKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc62a7e8b26c4dd29f41e5701d9de1c9",
+                "srcKUID": "e9093d0068ba4276ab7098bd50ad44ea",
+                "wType": "Label"
+            }
+        },
+        "lblEnteredAddressTitleKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aeef1684d69c4da0b9d1f1d56bb330bf",
+                "srcKUID": "d15ac4e876ab4a348b52d83527a3c220",
+                "wType": "Label"
+            }
+        },
+        "lblHeaderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c0c800cc79ad41088227cab9b627513f",
+                "srcKUID": "hee8b08c10a34daf8f93eb9181349a78",
+                "wType": "Label"
+            }
+        },
+        "lblStateCountryZipKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ha4e3675ad3c40af92441ef6a105732c",
+                "srcKUID": "i9595dc840124e4cb2d2813fbb28f3c4",
+                "wType": "Label"
+            }
+        },
+        "lblStreetApartKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b0cf09dff3f34efbbd6f7b6a25e9ad4a",
+                "srcKUID": "c6cd439975a64618be1fc0cd3f0b1976",
+                "wType": "Label"
+            }
+        },
+        "lblUspsAddressTitleKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h2296b17be3547fe911f2587c8942ac5",
+                "srcKUID": "cc901765120f46599b897cea611b6381",
+                "wType": "Label"
+            }
+        },
+        "lblUspsCityKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e5fc7db649b94245b7fccef2460ce77a",
+                "srcKUID": "je9822a2cc7245eaa2980c6dd53b8685",
+                "wType": "Label"
+            }
+        },
+        "lblUspsStateCountryZipKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a6d30d65fb4644caa9d4c441713776b0",
+                "srcKUID": "dd044aaa98f84a928d5ee85b5c6c6988",
+                "wType": "Label"
+            }
+        },
+        "lblUspsStreetApartKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jfe687bbb75b4faf8078baf9139e3b44",
+                "srcKUID": "hbefefb202724598ab5e1b120e4c3a1b",
+                "wType": "Label"
+            }
+        },
+        "rtxError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ib08e039b074448d8a410ff2d7ac4c97",
+                "srcKUID": "dc4e7d83f89a4de8a804e4fa5996ff57",
+                "wType": "RichText"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "PopupAddressValidationKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "f7c47a32785e4e5fa16a15e06d843c6a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxUSPSContainerKA",
+    "pf": "frmApplicantInfoKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e82ae354ca5d47fd94f23f3071cc554d",
+    "wType": "UserWidgetInstance"
+}

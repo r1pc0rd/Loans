@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94b1d2870fe4c609e3788287a99a173",
+    "_text_": "TX",
+    "_top_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblEmployerStateKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dd336ffd3a6c4ab484eeb3b28a6fda4c",
+    "name": "kony.ui.Label",
+    "parent": "flxAppIncomeFullTimeRightKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s94b1d2870fe4c609e3788287a99a173"
+        },
+        "b2": {
+            "skin": "s039c0e640244e7bbc49e9a07a235011",
+            "top": {
+                "type": "string",
+                "value": "150dp"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "75dp"
+            },
+            "skin": "s489a373939d4459b74c953e71bc3f41",
+            "top": {
+                "type": "string",
+                "value": "179dp"
+            }
+        },
+        "b4": {
+            "skin": "s94b1d2870fe4c609e3788287a99a173"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label"
+}

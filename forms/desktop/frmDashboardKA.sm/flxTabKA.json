@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se8e0a4044c04a439b0a9854558a7506",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblProductCardHeaderKA0id605914ee4646",
+        "flxProductCardUnderlineKA",
+        "lblProductCardAprKA",
+        "lblProductCardPercentsKA",
+        "lblProductCardInfoKA",
+        "CopybtnProductCardKA0ae89dc628b254d",
+        "lblProductCardLearnMoreKA",
+        "imgProductCardTabKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxTabKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ed63cdee623e4510b2d04119255e0b3f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "ProductCardCopy",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "335dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "320dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

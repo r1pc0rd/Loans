@@ -1,0 +1,38 @@
+{
+    "AS_TextField_e6ea04c0433e46db821b2f7cefb603d2": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateTextPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onBeginEditing_fb65dcd59b3f4504bc0dba5269cd399d",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblPrevStreetLandMarkKA\""
+                    }
+                ],
+                "sequenceKUID": "animateTextPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_e6ea04c0433e46db821b2f7cefb603d2",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

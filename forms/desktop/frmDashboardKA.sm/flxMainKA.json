@@ -1,0 +1,148 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "1820dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s456dbadc53c40dab80a9af7b7de7dbd",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "99.28%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxHeaderKA",
+        "flxMenuKA",
+        "imgBannerDashboardKA",
+        "flxContentKA",
+        "flxLoading"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": false,
+    "horizontalscrollindicator": true,
+    "id": "flxMainKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "psp": {
+            "verticalScrollIndicator": false
+        }
+    },
+    "kuid": "e6fabc045aca49a2a705bf33ace16ecc",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmDashboardKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "1500dp"
+            },
+            "skin": "s456dbadc53c40dab80a9af7b7de7dbd",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "1400dp"
+            },
+            "skin": "s456dbadc53c40dab80a9af7b7de7dbd",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "1550dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "2000dp"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s456dbadc53c40dab80a9af7b7de7dbd",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "vizProps": {},
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,38 @@
+{
+    "AS_TextField_j97c416333ad4e1b85b186ae5f9d0d1d": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateReturningPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onEndEditing_fa14b4ab8233496d8b2cbb673f94f626",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblPrevApartmentKA\""
+                    }
+                ],
+                "sequenceKUID": "animateReturningPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_j97c416333ad4e1b85b186ae5f9d0d1d",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

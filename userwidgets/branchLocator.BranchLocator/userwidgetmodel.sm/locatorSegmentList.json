@@ -1,0 +1,175 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "imgListStatus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "counter": "00",
+    "disabledSkins": {
+        "widgetSkin": "s9bb3600227d452ba65a2ebd78d95a13"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "dc06d33ffbbc4ba888dd2cc1e3cb5970",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "locatorSegmentList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "enableDictionary": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "hf23582ebd9547fba16afa2bf0b01863",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "addressLine1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "distanceLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "imgListStatus": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "informationListIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "informationListLabel": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "rightChevron1": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                }
+            }
+        ],
+        "rowTemplateId": "f1b2fea4668043faa4b24c652907e432",
+        "rowtemplate": "flxATMListViewKA",
+        "widgetdatamap": {
+            "addressLine1": "addressLine1",
+            "distanceLabel": "distanceLabel",
+            "flxATMListViewKA": "flxATMListViewKA",
+            "imgListStatus": "imgListStatus",
+            "informationListDivider": "informationListDivider",
+            "informationListIcon": "informationListIcon",
+            "informationListLabel": "informationListLabel",
+            "rightChevron1": "rightChevron1"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "locatorListView",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowTemplateId": "f1b2fea4668043faa4b24c652907e432",
+    "rowcounter": 0,
+    "rowtemplate": "flxATMListViewKA",
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "showprogressindicator": false,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "addressLine1": "addressLine1",
+        "distanceLabel": "distanceLabel",
+        "flxATMListViewKA": "flxATMListViewKA",
+        "imgListStatus": "imgListStatus",
+        "informationListDivider": "informationListDivider",
+        "informationListIcon": "informationListIcon",
+        "informationListLabel": "informationListLabel",
+        "rightChevron1": "rightChevron1"
+    }
+}

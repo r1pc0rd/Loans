@@ -1,0 +1,52 @@
+{
+    "AS_Form_aefc6845adde434090f85d3a4ff8f530": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "recalcHeightUpToRoot",
+                "id": "INVOKE_FUNCTION___a7ab735b666c4b5989856ed16b497af2",
+                "inputparams": [
+                    {
+                        "name": "flexId",
+                        "value": "this.view.flxLeftSectionKA"
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "recalcHeightUpToRoot",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            },
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "breakpointChange",
+                "id": "INVOKE_FUNCTION___b1a05e38afd546408d797339bdc9f5c4",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "breakpointChange",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_aefc6845adde434090f85d3a4ff8f530",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "number",
+                "name": "breakpoint"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

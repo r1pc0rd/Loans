@@ -1,0 +1,163 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "hamburger_3.png",
+    "__id": "frmEmploymentInfoKA_calDOBKA",
+    "__input": "calDOBKA",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        null,
+        null,
+        null
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "MM/DD/YY",
+    "_skin_": "s2c64fb56417482fb97fd528717018c9",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "advview": "default",
+    "calendaricon": "hamburger_3.png",
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        null,
+        null,
+        null,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": null,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        9,
+        2018
+    ],
+    "entereddate": [
+        null,
+        null,
+        null,
+        0,
+        0,
+        0
+    ],
+    "format": "MM/dd/yy",
+    "formatteddate": "",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": null,
+    "id": "calOtherDOBKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d043db0a045846eea31575a85f6279ee",
+    "luadate": [
+        null,
+        null,
+        null
+    ],
+    "minutes": null,
+    "month": null,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "onselection": "AS_Calendar_bb7ef0a4a9bd48429888f7b28c8a26a4",
+    "pagedate": "/2018",
+    "parent": "flxOtherDOBKA",
+    "pf": "frmConsentKA",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "160dp"
+            }
+        },
+        "b2": {
+            "isVisible": true,
+            "top": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "40%"
+            },
+            "contentAlignment": 4,
+            "width": {
+                "type": "string",
+                "value": "230dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": null,
+    "selectdate": "//2018",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": null,
+    "zindex": 1
+}

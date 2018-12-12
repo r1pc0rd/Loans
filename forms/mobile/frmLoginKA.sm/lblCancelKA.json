@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa26d9dffb8d4a30b10ca4f1ad07fcb2",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "74%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "83dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblCancelKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "maxHeight": {
+            "type": "string",
+            "value": ""
+        },
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gada10e86ac1482c8592413e26ebbd9a",
+    "maxheight": {
+        "type": "string",
+        "value": ""
+    },
+    "name": "kony.ui.Label",
+    "ontouchstart": "AS_Label_hf8c6be5058a450b81076e4d2c030cc4",
+    "parent": "flxFingerPrintKA",
+    "pf": "frmLoginKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label"
+}

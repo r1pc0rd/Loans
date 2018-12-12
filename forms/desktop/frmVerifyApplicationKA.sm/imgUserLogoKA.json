@@ -1,0 +1,153 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1176dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmVerifyApplicationKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgUserLogoKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a344d2ab50a34d2183bd908f42633508",
+    "name": "kony.ui.Image2",
+    "parent": "flxUserKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "72dp"
+            },
+            "src": "profilepic_3.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "40dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "72dp"
+            },
+            "src": "profilepic_3.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "40dp"
+            }
+        },
+        "b4": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "72dp"
+            },
+            "src": "profilepic_3.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "40dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

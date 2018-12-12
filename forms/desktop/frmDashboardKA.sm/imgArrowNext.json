@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "chevron.png",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmDashboardKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgArrowNext",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i54b38ab230b41a7a5179a1e35248055",
+    "name": "kony.ui.Image2",
+    "parent": "flxTrackSubmittedKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "14dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "14dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "14dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "14dp"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "14dp"
+            },
+            "isVisible": true,
+            "src": "chevronblue_mobile.png",
+            "top": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "14dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Label_j46cf5b4c9d247b9b0b27e4503d588d4": {
+        "id": "AS_Label_j46cf5b4c9d247b9b0b27e4503d588d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "af51fae5eacc493b81569a627b8d577f",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j16d035a85ec4bd19a0687781c0f61c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var nav = applicationManager.getNavigationManager();\nnav.navigateTo(\"frmPreLoginKA\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmVerifyApplicationKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgLogoKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dafdb014d8614496b1a62832ff4a5bf5",
+    "name": "kony.ui.Image2",
+    "parent": "flxHeaderMenuKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "43dp"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "src": "konydbxlogo_customer_landing_5.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "224dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "src": "konydbxlogo_customer_landing_5.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b4": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "43dp"
+            },
+            "src": "konydbxlogo_customer_landing_5.png",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "224dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

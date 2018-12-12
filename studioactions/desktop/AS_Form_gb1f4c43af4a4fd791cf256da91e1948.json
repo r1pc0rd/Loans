@@ -1,0 +1,41 @@
+{
+    "AS_Form_gb1f4c43af4a4fd791cf256da91e1948": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "onBreakpointChange",
+                "id": "INVOKE_FUNCTION___bbdcf6ada6174240847acbd8898a3a89",
+                "inputparams": [
+                    {
+                        "name": "breakpoint",
+                        "value": " breakpoint"
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "onBreakpointChange",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_gb1f4c43af4a4fd791cf256da91e1948",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "number",
+                "name": "breakpoint"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

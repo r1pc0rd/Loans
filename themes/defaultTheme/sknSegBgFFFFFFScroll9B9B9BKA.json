@@ -1,0 +1,86 @@
+{
+  "android": {
+    "font_name": "default"
+  },
+  "androidwearos": {
+    "font_name": "default"
+  },
+  "background_color": "ffffff00",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "ipad": {
+    "font_name": "System"
+  },
+  "iphone": {
+    "font_name": "System"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "None"
+  },
+  "kuid": "s9c76bkartoac44c9b0oles573b9kofca",
+  "spaan": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spabb": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaip": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaipad": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "customCSS": "div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA{\n  overflow: hidden !important;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n  width: 100%;\n  height: 160px;\n  top: 0px;\n  padding: 0px 0px 0px 0px;\n  overflow-y: auto;\n  position: relative;\n  box-sizing: unset;\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li{\n  overflow: hidden;\n}\n@-moz-document url-prefix() {\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul{\n    position:relative;\n    width: 100%;\n    height: 160px;\n    top:-17px;\n    padding:20px 0px 20px 10px;\n    overflow-y:auto;\n  }\n  div[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul li:last-child{\n   padding-bottom: 10px;\n  }\n}\ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar {\n    width: 6px;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-track {\n    background:#ffffff;\n}\n \ndiv[id*=\"_flxsegDataKA\"] div.sknSegBgFFFFFFScroll9B9B9BKA ul::-webkit-scrollbar-thumb {\n    border-radius: 5px;\n   background:rgba(155,155,155,0.8);\n}",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "default"
+  },
+  "wType": "Segment",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {
+    "font_name": "None"
+  },
+  "winphone8": {
+    "font_name": "None"
+  }
+}

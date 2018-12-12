@@ -1,0 +1,27 @@
+{
+    "AS_TextField_gf4fce4ec6a8490caef61ff46b9eca54": {
+        "id": "AS_TextField_gf4fce4ec6a8490caef61ff46b9eca54",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jaed0789235d488fb65ebd9b961c62e1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.validateForEmptyUserNameAndPassword();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "DropDownList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d45316cd6f7f45a1bfd374be9c7c1871",
+                "srcKUID": "g98f526c2ca54cd09fd7965a07cc0463",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        },
+        "Search": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ca0fa7e2f99246578a35f39d021756a9",
+                "srcKUID": "e7dd6c9649f943069a34d3c008c64a0c",
+                "wType": "Label"
+            }
+        },
+        "flxError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e01392e0af3248ae8df37e7528fb5a41",
+                "srcKUID": "j519334769514e68b909444921ccd5a6",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxIconKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce599fa929e54df9b6e17602f79ace82",
+                "srcKUID": "d24deceb63d6416eb7c48f536142acc7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxQuoteKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j434709f5e2c48dcbeffcd03f7a7017f",
+                "srcKUID": "a0b7ce6a7f58401cab848eae514fe6d2",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i3d799afffdf46ff8b7095f484be92da",
+                "srcKUID": "a6e5b71a0c614480a5fdd33af7d6a1e7",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeparatorKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dcbb31b377324eada96e5f00114ba9e8",
+                "srcKUID": "cbd2c63df1384d158a5e6a39870b5b34",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTipImgKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aec4d4f3e51d497d85cad9605359b3ed",
+                "srcKUID": "a66a027c2a3d4ce18efb74fe440c0a62",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTitle": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h59e21168ab747ec8d4c5d3181e79103",
+                "srcKUID": "eec58e2c79c347039906c4ee19340aa0",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bbcd742ace8247758d42c482895e6d77",
+                "srcKUID": "ac8919dfd3bb4d638b95655ed8eb6a2b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxsegDataKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cb13dcd500f3479ea90bb74d61a615bd",
+                "srcKUID": "id55838cec62417684e1de354338ea54",
+                "wType": "FlexContainer"
+            },
+            "isVisible": false,
+            "responsiveData": {}
+        },
+        "imgTipUpKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f846f13630bf4e598568ceed34647af1",
+                "srcKUID": "e3bacae493e241a1b72c895db5d7447d",
+                "wType": "Image"
+            },
+            "src": "dropdownicondown.png"
+        },
+        "lblDropDownNameKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b9d46a72512349949dd222ef0be591d3",
+                "srcKUID": "e9af0e644ee74c669bd08621c4f6532f",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Select One"
+        },
+        "lblErrorMsgKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d146cbdea2864585bdfdd20225dbfa36",
+                "srcKUID": "b088c19b23e34e37b752d58f5afcc050",
+                "wType": "Label"
+            }
+        },
+        "segDataKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ab07858ad71643489e42f2c995d25593",
+                "srcKUID": "d1800f0c9b3c4542843ba91677b75a41",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Debt"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Pay Off Credit Cards"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Pay Off Other Loans"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Pay Off Mortgage"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Home Improvement"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Home Repairs"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Medical Expenses"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Business"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Vehicle"
+                        }
+                    },
+                    {
+                        "lblLineKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        },
+                        "lblValueKA": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Others"
+                        }
+                    }
+                ]
+            }
+        },
+        "tbxSearchKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a77df7dbd6964ecda15d509917430bf2",
+                "srcKUID": "eafb91bb8ab04b6bbdfd069552f567bf",
+                "wType": "TextField"
+            }
+        }
+    },
+    "desktopweb": {},
+    "id": "DropDownListKA",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "d45316cd6f7f45a1bfd374be9c7c1871",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxDropDownPurposeKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "g98f526c2ca54cd09fd7965a07cc0463",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {}
+}

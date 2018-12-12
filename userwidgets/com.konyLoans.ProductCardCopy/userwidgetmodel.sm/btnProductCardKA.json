@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saf8e6ec83814a4abedb77d1e376a722",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "number",
+        "value": "245"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "265dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s96aa17ae4c14e42bac87bc79ce89e5e"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s96aa17ae4c14e42bac87bc79ce89e5e",
+    "id": "btnProductCardKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u83722b87788401dbe89acbf9ebe8e88",
+    "name": "kony.ui.Button",
+    "parent": "flxTabKA",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

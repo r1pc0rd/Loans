@@ -1,0 +1,140 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "113"
+    },
+    "_skin_": "s9790a3b5f2f4ece84fc1083fedfb6af",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblHelpKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f8964bc8ec254e2e9c547d7909fb30a1",
+    "name": "kony.ui.Label",
+    "parent": "flxMenuContentKA",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "text": "Help",
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s1bd457e40bf433ea6a5ff15a613be1c",
+            "text": "Help",
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s9790a3b5f2f4ece84fc1083fedfb6af",
+            "text": "Help",
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

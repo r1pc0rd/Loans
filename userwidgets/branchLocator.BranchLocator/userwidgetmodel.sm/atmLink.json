@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sae0adbbf1944cb196e84ae7611d8ddf",
+    "_text_": "Enable Location Services",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "se1cc2f9ad2549c992e4b839a3a81404",
+    "id": "atmLink",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "b0c26f42004c47ec92cd813864dd78b3",
+    "name": "kony.ui.Button",
+    "parent": "noSearchResults",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "texti18n": "i18n.locateus.atmLink",
+    "wType": "Button",
+    "zindex": 1
+}

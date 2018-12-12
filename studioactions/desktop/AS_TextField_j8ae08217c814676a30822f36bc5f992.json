@@ -1,0 +1,38 @@
+{
+    "AS_TextField_j8ae08217c814676a30822f36bc5f992": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateTextPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onBeginEditing_c2a8d74244e6420dbf2f185c7dfeb644",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblZippcodeKA\""
+                    }
+                ],
+                "sequenceKUID": "animateTextPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_j8ae08217c814676a30822f36bc5f992",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

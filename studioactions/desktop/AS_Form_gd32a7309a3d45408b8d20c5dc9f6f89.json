@@ -1,0 +1,38 @@
+{
+    "AS_Form_gd32a7309a3d45408b8d20c5dc9f6f89": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "resetHeightOnInit",
+                "id": "INVOKE_FUNCTION__ide_postShow_ib7388d7afd84fd8813fe8961739c16c",
+                "inputparams": [],
+                "sequenceKUID": "resetHeightOnInit",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            },
+            {
+                "callbackType": null,
+                "codeSnippet": "if(kony.dbp.loans.AuthenticationDataProvider.runTestCases){\n  require(\"JasmineTests/AuthenticationModule/LoginTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansModule/GetAllApplicationTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansModule/NewCustomerRegistrationTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansManager/GetLoanProduct\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansManager/GetLoanAnswersTest\")(jasmine.getEnv());\n  jasmine.getEnv().execute();\n}",
+                "id": "ADD_SNIPPET__jaa92663d2ff4d4f82f24cfcd1a00069",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": null,
+            "type": "forms"
+        },
+        "id": "AS_Form_gd32a7309a3d45408b8d20c5dc9f6f89",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

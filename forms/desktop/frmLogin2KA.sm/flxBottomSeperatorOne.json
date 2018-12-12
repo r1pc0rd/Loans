@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "1.20%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s2dac320505840b58eddb55e421b0039",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxBottomSeperatorOne",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a59e04a45a5f418e85f114dd4b65bfa3",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenuHomeKA",
+    "pf": "frmLogin2KA",
+    "responsiveData": {
+        "b1": {
+            "isVisible": true
+        },
+        "b2": {
+            "isVisible": true
+        },
+        "b3": {
+            "isVisible": true
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

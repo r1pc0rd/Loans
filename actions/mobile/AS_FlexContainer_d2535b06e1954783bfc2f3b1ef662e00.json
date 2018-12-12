@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d2535b06e1954783bfc2f3b1ef662e00": {
+        "id": "AS_FlexContainer_d2535b06e1954783bfc2f3b1ef662e00",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i08092e7a6434e358573255e99384e37",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickOfLogin(this.view.tbxUserNameKA.text, this.view.tbxPasswordKA.text);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

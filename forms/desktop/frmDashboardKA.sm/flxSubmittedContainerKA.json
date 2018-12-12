@@ -1,0 +1,81 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sba88fdc8773404e82333a1cdc59dc30",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblSubmittedAppsKA",
+        "flxUnderlineRecentTopKA",
+        "lblPersonalLoanApplication",
+        "lblSubmittedCounterKA",
+        "flxLastEditedSubmittedContainerKA",
+        "flxTrackSubmittedKA",
+        "flxUnderlineRecentBottomKA",
+        "lblViewAllApplicationsKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSubmittedContainerKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b774e2d8f6af424793cda03c4eedf082",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSubmittedAppsKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "number",
+                "value": "0"
+            }
+        },
+        "b3": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

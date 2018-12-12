@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s794f64c90f240558686229e76f3b6f9",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "47dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "256dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "addressLine1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "a09e1de6fada48d8983c24663dec70b8",
+    "name": "kony.ui.Label",
+    "parent": "flxATMListViewKA",
+    "pf": "atmLocatorListingTemplate",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

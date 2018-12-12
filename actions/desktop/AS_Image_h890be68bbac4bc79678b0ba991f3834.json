@@ -1,0 +1,36 @@
+{
+    "AS_Image_h890be68bbac4bc79678b0ba991f3834": {
+        "id": "AS_Image_h890be68bbac4bc79678b0ba991f3834",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPersonalLoanInfoKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d11f68d864ed4f4a8ca254de964d1fad"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cbf05cd691564c4e97cffd119ae26f26",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin2KA",
+            "friendlyName": "frmLogin2KA",
+            "formKUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

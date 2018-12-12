@@ -1,0 +1,18 @@
+{
+    "AS_Button_e7c7674b601149f39eeed4b45b72effd": {
+        "id": "AS_Button_e7c7674b601149f39eeed4b45b72effd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e5f3e2d2d22e4b7b883a6e00d096c1e0"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+  "android": {
+    "font_name": "default"
+  },
+  "androidwearos": {
+    "font_name": "default"
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "eeeeeeff",
+  "border_radius": 0,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "desktopweb": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "ipad": {
+    "font_name": "System"
+  },
+  "iphone": {
+    "font_name": "System"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "None",
+    "isForked": true
+  },
+  "kuid": "sa7170b3a22a4e8c966d7e89dd567420",
+  "spaan": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spabb": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaip": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaipad": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "customCSS": "display: inline-block;\n-moz-transform: rotate(23deg);\n-webkit-transform: rotate(23deg);\n-o-transform: rotate(23deg);\n-ms-transform: rotate(23deg);\ntransform: rotate(23deg);\nborder-top: 2px solid #EEEEEE;\nborder-left: 2px solid #EEEEEE;\nbackground: #FFFFFF;",
+    "font_name": "Helvetica",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "default"
+  },
+  "wType": "FlexContainer",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {
+    "font_name": "None"
+  },
+  "winphone8": {
+    "font_name": "None"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_ListBox_d3daeec04474453eb16d323a4a2064d7": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "getSuffix",
+                "id": "INVOKE_FUNCTION__ide_onSelection_gb5c646ad06c466fbab328c4d5a0928c",
+                "inputparams": [],
+                "sequenceKUID": "getSuffix",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_ListBox_d3daeec04474453eb16d323a4a2064d7",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Image_fd5532ec57e5486d935e0a7f97bc8b5d": {
+        "id": "AS_Image_fd5532ec57e5486d935e0a7f97bc8b5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "b345ae270bbf4abbb4cce4a1a1fa5e48",
+            "name": "frmMyApplicationsKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__if09de4420d74201bb69866e2c8bdcc4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToPreLoginDashboard();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

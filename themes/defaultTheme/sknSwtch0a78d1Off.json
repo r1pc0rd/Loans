@@ -1,0 +1,34 @@
+{
+  "android": {
+    "background_left_color": "e6e6e6ff",
+    "background_right_color": "e6e6e6ff",
+    "bg_type": "one",
+    "font_name": "default",
+    "isForked": true,
+    "thumb_color": "a0a0a0ff"
+  },
+  "background_left_color": "48d874ff",
+  "background_right_color": "ffffff00",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "background_left_color": "a0a0a000",
+    "background_right_color": "a0a0a000",
+    "bg_type": "one",
+    "font_name": "System",
+    "isForked": true,
+    "thumb_color": "a0a0a0ff",
+    "tint_color": "a0a0a0ff"
+  },
+  "isDefaultSkin": false,
+  "kuid": "sdcde1e12ec5469eabea51ba5bd31548",
+  "left_font_color": "333333ff",
+  "right_font_color": "333333ff",
+  "wType": "Switch"
+}

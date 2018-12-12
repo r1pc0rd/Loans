@@ -1,0 +1,116 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "20"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4edc557c7b344608917b0a72ca070f3",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "number",
+        "value": "80"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sdc9fde3526a4600ad253ab8cccec43e"
+    },
+    "displaytext": true,
+    "id": "BtnGetStartedApplyNowKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bad744d8d02046b287c6169eb7e416a9",
+    "name": "kony.ui.Button",
+    "parent": "flxButtonContainerKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "skin": "s4edc557c7b344608917b0a72ca070f3"
+        },
+        "b2": {},
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "35dp"
+            },
+            "skin": "s1b03b154432477dbb13fc01b8ab19a7",
+            "text": "Apply Now",
+            "top": {
+                "type": "number",
+                "value": "70"
+            },
+            "width": {
+                "type": "string",
+                "value": "250dp"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "skin": "sdc9fde3526a4600ad253ab8cccec43e",
+            "text": "Apply Now",
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

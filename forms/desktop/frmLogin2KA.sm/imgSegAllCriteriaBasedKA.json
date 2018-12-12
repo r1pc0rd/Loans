@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "510dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "830dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "iphone_8.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "285dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmLogin2KA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgSegAllCriteriaBasedKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e78d22a815b34735a45ca0d596d1494f",
+    "name": "kony.ui.Image2",
+    "parent": "flxLoansListKA",
+    "pf": "frmLogin2KA",
+    "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "410dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "70%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "370dp"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

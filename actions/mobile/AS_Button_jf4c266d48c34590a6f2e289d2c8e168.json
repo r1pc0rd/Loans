@@ -1,0 +1,24 @@
+{
+    "AS_Button_jf4c266d48c34590a6f2e289d2c8e168": {
+        "id": "AS_Button_jf4c266d48c34590a6f2e289d2c8e168",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "ef0a96aaf45046e98792c06586d1913a",
+            "name": "frmPreLoginPersonalLoanKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i0256a62b40f4671bdf6429075183669",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var nav = applicationManager.getNavigationManager();\nnav.navigateTo(\"frmMemberEligibilityCheckKA\"); ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

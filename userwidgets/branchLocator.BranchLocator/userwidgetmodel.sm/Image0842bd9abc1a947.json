@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s7e7ed3f36db494e9b48ef381b6f5247",
+    "_src_": "right_chevron_icon.png",
+    "_top_": {
+        "type": "string",
+        "value": "71dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwub9880eb0efc4bbc9d0edb6c26fa6fd3",
+        "platform": "iphone",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "Image0842bd9abc1a947",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iphone": {
+        "render": true
+    },
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "b971aa6838834bcfa8fd8fc6d980ca6f",
+    "name": "kony.ui.Image2",
+    "parent": "calloutRightWrapper",
+    "pf": "userwidgetmodel",
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

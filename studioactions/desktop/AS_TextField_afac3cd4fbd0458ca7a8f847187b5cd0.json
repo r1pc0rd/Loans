@@ -1,0 +1,32 @@
+{
+    "AS_TextField_afac3cd4fbd0458ca7a8f847187b5cd0": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "handleCredentialsInput",
+                "id": "INVOKE_FUNCTION___g7fa348c99ff4dd7ace8ce89d53b4d89",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "handleCredentialsInput",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_afac3cd4fbd0458ca7a8f847187b5cd0",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

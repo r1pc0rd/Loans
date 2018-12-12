@@ -1,0 +1,43 @@
+{
+    "AS_TextField_f5399987c6e443d59ebdfafc3aa820fb": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "changeFontSizeAtPasswordMaskCircles",
+                "id": "INVOKE_FUNCTION___da22d47cef0347d8b237d3e569e21462",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "changeFontSizeAtPasswordMaskCircles",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            },
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "handleCredentialsInput",
+                "id": "INVOKE_FUNCTION___e63654b64fef4078bf34241c3ea333be",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "handleCredentialsInput",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_f5399987c6e443d59ebdfafc3aa820fb",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbd3acdc243a416aa18cbff34eea69b7",
+    "_text_": "To receive the Consumer Information electronically, scroll to read the complete disclosure and then select I consent on this page. As part of your online loan application, XYZ bank., is required by law to provide you with certain Consumer Information. You have the right to receive the Consumer Information on paper. With your consent, we may provide the Consumer Information to you electronically instead. If you prefer to receive the Consumer Information on paper, you’ll need to visit any XYZ banking center to apply in person. Your consent only applies to this loan application and the documents listed here. You aren't required to consent to receive information electronically to complete this application. If you’d like to withdraw your consent after consenting to receive information electronically, or if after receiving electronic documents you would like paper copies, you may do so in the Application Status Center or contact us at 1.888.266.1034 and we will provide you with paper copies at no charge. You can also update your contact information with us by calling that same telephone number. Consent withdrawal won’t apply to any actions already taken or initiated in reliance on your consent.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblToReceiveKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j02ec5bb0a8e4c848c85e89884c5e9c3",
+    "name": "kony.ui.Label",
+    "parent": "flxConsentTextKA",
+    "pf": "frmConsentKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,126 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "30"
+    },
+    "_skin_": "s7027f4f160247bfa6889340812216ed",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s197fd0526f944ac92b867c0c58af8e2"
+    },
+    "displaytext": true,
+    "id": "btnContinueKA",
+    "ide_onClick": "AS_Button_ca1d908affcc4bb7875311669f52f77f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce554cf8cdf4424cb2b87deab1edd115",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c37054b46c404b599f86ce850c5f7953",
+    "parent": "flxButtonsKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "25dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "25dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "48dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "48dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "right": {
+                "type": "string",
+                "value": "25dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

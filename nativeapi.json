@@ -1,0 +1,133 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "isDefault": true,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.nativebindings/iOS/11.0/Kony_SDKCommons-iOS-11.0.zip",
+                    "filepath": "/Users/matttrevathan/KonyVizEWS/Loans/nativebindings/iOS/11.0/Kony_SDKCommons-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "isDefault": true,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "/Users/matttrevathan/KonyVizEWS/Loans/nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                }
+            },
+            "11.4": {
+                "KonyAcuant-iOS-11.4": {
+                    "title": "KonyAcuant",
+                    "platform": "iOS",
+                    "os": "11.4",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/iOS/11.4/KonyAcuant-iOS-11.4.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/iOS/11.4/KonyAcuant-iOS-11.4.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "isDefault": true,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip",
+                    "filepath": "/Users/matttrevathan/KonyVizEWS/Loans/nativebindings/Android/4.0/Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "isDefault": true,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "/Users/matttrevathan/KonyVizEWS/Loans/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            },
+            "4.2": {
+                "net.sf.scuba.scuba-sc-android-0.0.9-Android-4.2": {
+                    "title": "net.sf.scuba.scuba-sc-android-0.0.9",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/net.sf.scuba.scuba-sc-android-0.0.9-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/net.sf.scuba.scuba-sc-android-0.0.9-Android-4.2.zip",
+                    "enable": true
+                },
+                "com.sqareup.okio-1.13.0-Android-4.2": {
+                    "title": "com.sqareup.okio-1.13.0",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/com.sqareup.okio-1.13.0-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/com.sqareup.okio-1.13.0-Android-4.2.zip",
+                    "enable": true
+                },
+                "org.ejbca.cvc.cert-cvc-1.4.3-Android-4.2": {
+                    "title": "org.ejbca.cvc.cert-cvc-1.4.3",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/org.ejbca.cvc.cert-cvc-1.4.3-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/org.ejbca.cvc.cert-cvc-1.4.3-Android-4.2.zip",
+                    "enable": true
+                },
+                "org.jmrtd.jmrtd-0.5.6-Android-4.2": {
+                    "title": "org.jmrtd.jmrtd-0.5.6",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/org.jmrtd.jmrtd-0.5.6-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/org.jmrtd.jmrtd-0.5.6-Android-4.2.zip",
+                    "enable": true
+                },
+                "com.squareup.okhttp3.okhttp-3.8.0-Android-4.2": {
+                    "title": "com.squareup.okhttp3.okhttp-3.8.0",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/com.squareup.okhttp3.okhttp-3.8.0-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/com.squareup.okhttp3.okhttp-3.8.0-Android-4.2.zip",
+                    "enable": true
+                },
+                "com.madgag.spongycastle.prov-1.54.0.0-Android-4.2": {
+                    "title": "com.madgag.spongycastle.prov-1.54.0.0",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/com.madgag.spongycastle.prov-1.54.0.0-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/com.madgag.spongycastle.prov-1.54.0.0-Android-4.2.zip",
+                    "enable": true
+                },
+                "com.microblink.pdf417.mobi-6.4.0-Android-4.2": {
+                    "title": "com.microblink.pdf417.mobi-6.4.0",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/com.microblink.pdf417.mobi-6.4.0-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/com.microblink.pdf417.mobi-6.4.0-Android-4.2.zip",
+                    "enable": true
+                },
+                "AcuantSDK-Android-4.2": {
+                    "title": "AcuantSDK",
+                    "platform": "Android",
+                    "os": "4.2",
+                    "isDefault": false,
+                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/Android/4.2/AcuantSDK-Android-4.2.zip",
+                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/Android/4.2/AcuantSDK-Android-4.2.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

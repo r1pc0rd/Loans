@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb7061d71d774cb38f84faa74ead9ff2",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxHolder"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "CopyCopyflxCCAppRowHolderController"
+        }
+    },
+    "disabledSkins": {},
+    "enablescrolling": true,
+    "focusskin": "sf0921af281f44d2851809e0db027d9c",
+    "friendlyName": "flxCCAppRowHolder",
+    "id": "CopyCopyflxCCAppRowHolder",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eef4e0db3a0640ad8832b1474b20ee7f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyCopytmlCCAppRow",
+    "pf": "CopyCopytmlCCAppRow",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

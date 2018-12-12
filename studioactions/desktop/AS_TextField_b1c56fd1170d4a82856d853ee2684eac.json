@@ -1,0 +1,32 @@
+{
+    "AS_TextField_b1c56fd1170d4a82856d853ee2684eac": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "onTextChangeOftbxSearch",
+                "id": "INVOKE_FUNCTION___a9eabb8926fe45d98554f05a08ad9788",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "onTextChangeOftbxSearch",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_b1c56fd1170d4a82856d853ee2684eac",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

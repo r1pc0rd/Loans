@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "283dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sae1d5f7d8ea45df83e0bcce0c9f331e",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sae1d5f7d8ea45df83e0bcce0c9f331e",
+    "id": "btnRegisterNowKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a5bac1a40d7d4fb5873b0d1471cfd5e1",
+    "name": "kony.ui.Button",
+    "parent": "flxRegisterNowTextKA",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "49%"
+            },
+            "height": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "sae1d5f7d8ea45df83e0bcce0c9f331e",
+            "text": "Register Now",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "83dp"
+            }
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s3b3b1ba550d4cab93dd1b8b423347b7",
+    "_text_": "BOTH",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s183b1bfe0b34d4983da7e626ba4a9e3",
+    "id": "btnBothFilterKA",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "df069772f4e44d8a9ed9835990883f21",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "texti18n": "i18n.locateus.btnBoth",
+    "wType": "Button",
+    "zindex": 1
+}

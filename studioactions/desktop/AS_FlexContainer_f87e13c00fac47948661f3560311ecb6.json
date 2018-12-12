@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_f87e13c00fac47948661f3560311ecb6": {
+        "actions": [
+            {
+                "callbackType": null,
+                "enableMappingEditor": true,
+                "formId": "CopyFrmLoginKA",
+                "formKUID": "j0329c6c64654440bf366abc8de81b74",
+                "friendlyName": "FrmLoginKA",
+                "id": "NAVIGATE_TO_FORM___d62d48d332b64c9891f7128f7b464b56",
+                "mappings": {},
+                "mappingsOrder": [],
+                "package": "",
+                "parentId": "",
+                "type": "NAVIGATE_TO_FORM"
+            }
+        ],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_FlexContainer_f87e13c00fac47948661f3560311ecb6",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

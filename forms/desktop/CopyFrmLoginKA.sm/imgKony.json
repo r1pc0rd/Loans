@@ -1,0 +1,273 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "73dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbb603b4f1204c078eb877fd308b868a",
+    "_src_": "konydbxlogo_customer_landing_1_1.png",
+    "_top_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "102dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "CopyFrmLoginKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgKony",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": false,
+    "kuid": "f0ce00c464434850b2c31165744b6378",
+    "name": "kony.ui.Image2",
+    "parent": "flxImageHolderContainerKA",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "-9dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_BarButtonItem_c80ef0dc6b4e4b9088874e69cdac575e": {
+        "id": "AS_BarButtonItem_c80ef0dc6b4e4b9088874e69cdac575e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e2f91341dcba4d8d9441ba61fbdcbf9d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPreLoginKA",
+            "friendlyName": "frmPreLoginKA",
+            "formKUID": "e1fce870c5f24c5e888295c185915d41",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

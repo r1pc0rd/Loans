@@ -1,0 +1,96 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "19dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "760dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "lblMonthlyExpencesTitleKA",
+        "flxMonthlyExpencesKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMonthlyExpencesContainerKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e210a6b29c044a618ed1b3ea9bcc86cf",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxApplicantIncomeBlockKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {
+            "top": {
+                "type": "string",
+                "value": "11dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "640dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "11dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "94%"
+            }
+        },
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

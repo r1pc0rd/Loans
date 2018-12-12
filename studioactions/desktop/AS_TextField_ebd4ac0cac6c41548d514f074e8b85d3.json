@@ -1,0 +1,36 @@
+{
+    "AS_TextField_ebd4ac0cac6c41548d514f074e8b85d3": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "handleLoginButtonClick",
+                "id": "INVOKE_FUNCTION___f2e6093119aa42be9e25c233e78fa4fb",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "handleLoginButtonClick",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_ebd4ac0cac6c41548d514f074e8b85d3",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexScrollContainer_ab9f9be36b9048d993d35f9d702407d2": {
+        "id": "AS_FlexScrollContainer_ab9f9be36b9048d993d35f9d702407d2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fa2f710100764c51a8c45286e4f04a4d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onScrollEnd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

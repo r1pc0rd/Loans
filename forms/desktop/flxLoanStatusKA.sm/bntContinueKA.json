@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s0f61d18a3384821b1aca056e6d62e2c",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0f61d18a3384821b1aca056e6d62e2c",
+    "id": "bntContinueKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hc97fe09989d4dc7813317036f467a31",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d19504e90dca4a58b3a7eea57b7545e2",
+    "parent": "flxButtonsKA",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b4": {
+            "skin": "s89d8cea44b04b739d366a8ae8446876",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

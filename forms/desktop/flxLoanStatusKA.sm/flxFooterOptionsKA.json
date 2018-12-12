@@ -1,0 +1,100 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "lblLocateUSKA",
+        "lblFooterSeperatorOneKA",
+        "lblContactUsKA",
+        "lblSeperatorFooterTwoKA",
+        "lblPrivacyPolicyKA",
+        "lblSeperatorFooterThreeKA",
+        "lblTandCKA",
+        "lblSeperatorFooterFourKA",
+        "lblFAQKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxFooterOptionsKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eec49700df464e838c255c08d43132d7",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxFooterKA",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0%"
+            },
+            "right": {
+                "type": "string",
+                "value": "0%"
+            },
+            "top": {
+                "type": "string",
+                "value": "35dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "180dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

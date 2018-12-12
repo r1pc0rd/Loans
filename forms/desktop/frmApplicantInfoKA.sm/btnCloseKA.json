@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_skin_": "sfa9e21fd3b74390a18d619f4bf5ba82",
+    "_text_": "Close",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s197fd0526f944ac92b867c0c58af8e2"
+    },
+    "displaytext": true,
+    "id": "btnCloseKA",
+    "ide_onClick": "AS_Button_cf0d7a934c754a04834ee7ff5ca2e7aa",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e007320aa667461eb69e6100a6a04772",
+    "name": "kony.ui.Button",
+    "parent": "flxButtonsKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "195dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "right": {
+                "type": "string",
+                "value": "190dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b4": {
+            "right": {
+                "type": "string",
+                "value": "195dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

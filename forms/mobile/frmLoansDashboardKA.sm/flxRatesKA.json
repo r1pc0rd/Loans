@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblSubTitleThreeKA",
+        "lblTermKA",
+        "lblAPRKA",
+        "lblRateKA",
+        "flxSeparatorOneKA",
+        "lblAPROneKA",
+        "lblTermOneKA",
+        "lblRateOneKA",
+        "flxSeparatorTwoKA",
+        "lblTermTwoKA",
+        "lblRateTwoKA",
+        "lblAPRTwoKA",
+        "flxSeparatorThreeKA",
+        "lblTermThreeKA",
+        "lblRateThreeKA",
+        "lblAPRThreeKA",
+        "flxSeparatorFourKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxRatesKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d9178891ed2b4616868f2d144ec2cd8c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMainKA",
+    "pf": "frmLoansDashboardKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

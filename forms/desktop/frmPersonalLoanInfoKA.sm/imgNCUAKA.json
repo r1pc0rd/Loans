@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "ncua_3.png",
+    "_top_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "86dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "55%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmPersonalLoanInfoKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgNCUAKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f4e9d8489e0b4a61a68a180bda7da8e6",
+    "name": "kony.ui.Image2",
+    "parent": "flxFooterKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "40%"
+            },
+            "height": {
+                "type": "string",
+                "value": "38dp"
+            },
+            "isVisible": true,
+            "right": {
+                "type": "string",
+                "value": "3dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "70dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

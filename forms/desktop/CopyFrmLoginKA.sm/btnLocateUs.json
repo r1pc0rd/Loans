@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc4f4d62bde944aa823144bdf1cabdec",
+    "_text_": "Contact Us",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Locate Us"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s0d853c8b5284c03a08be1232819c24b"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s264339940904f6b9d3e47b6fdc9e327",
+    "id": "btnLocateUs",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c6ce15146a6a48f3865894ffd878c6f5",
+    "name": "kony.ui.Button",
+    "parent": "flxFooterMenu",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 2,
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "70dp"
+            }
+        },
+        "b2": {},
+        "b3": {
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b4": {}
+    },
+    "texti18n": "i18n.footer.locateUs",
+    "tooltip": "Locate Us",
+    "wType": "Button",
+    "zindex": 1
+}

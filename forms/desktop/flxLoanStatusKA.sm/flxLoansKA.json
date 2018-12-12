@@ -1,0 +1,117 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "461dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblLoansKA",
+        "flxLoansUnderlineKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxLoansKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "f53c9fdb2efc42d29f5f16fbfd173648",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenuContentKA",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "178dp"
+            },
+            "top": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "87dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "178dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "160dp"
+            },
+            "top": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "98dp"
+            }
+        },
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,152 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s02a0e2e8076433b87852f807053dde4",
+    "_text_": "Submit Application",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "210dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s787e25706704fdca5567a45a096b823"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s3415458fb424a87bee9f89e5f167aa2",
+    "id": "btnSubmitApplicationKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d3d8eaf9d0104af1a47d3eac2b8e6eb3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a2b38ef7f5e04c7a805e71f0faa14285",
+    "parent": "flxBodyFooterKA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "disabledSkins": {
+                "focusSkin": "sc911279940c4442afe73bd531f19562"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "20dp"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "15%"
+            },
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "210dp"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,383 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {},
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ApplicationStatusRoadMapCopy1": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "cab6796ceecb4b2b99da503293194f5c",
+                "srcKUID": "u479cdd11e76455cbb500abe1308e5a8",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppDateContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f0f181318d27466aad39479282aca046",
+                "srcKUID": "u9b21f51050c4a2cbf1a68f7c7ffac5c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppDetails": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f88997ff20884a6abc1e1f87b2827751",
+                "srcKUID": "ua0c82b4b0fb4760b4ce116f32b5e723",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppIdContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gf4b988a05a945ba88187fc961677922",
+                "srcKUID": "ub46b1bef0714b47b5190f9d146ef634",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxCreditCardContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ca88763a0c4d4f998bfa6d232e3b698f",
+                "srcKUID": "uc75fb0397544ea7b381bc310fbdbc79",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxCreditCardDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b7227c13995044628d6056e76a6bfbeb",
+                "srcKUID": "uf6396907129431db327f71324f7169a",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxDetailsContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f6d9fe93722b46c48996ff052b755033",
+                "srcKUID": "u5b1ecb017f0475196c417520f45fc6a",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxProgress": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d75947ce5bed44b58f26e894efaf9f42",
+                "srcKUID": "uf872f94b92042a8afa3afe9b2ffa950",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxProgressBackgroundLanding": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bc435e841a014f60aa4defeab1135abe",
+                "srcKUID": "uf1556643af54d6a977d43c3e46c367c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxProgressValueLanding": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2c09e32f5f34adf8f6ae2de861910cb",
+                "srcKUID": "u5bc1865a7974ca4bf8f0000e16de699",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxRoadMap": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e03b015de92741e285560912f5fd2e2e",
+                "srcKUID": "u62c570f6bb04da18aa7217a606255cf",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTypeContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b6ab14293d6e4cbf91c349865948bfa5",
+                "srcKUID": "u2fed3c205c6475886e488a85b3ca674",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgCreditCard": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d938d0f2c79b4ae1b7f5da906cf4191c",
+                "srcKUID": "u391d70109364935b418998f1d81e652",
+                "wType": "Image"
+            }
+        },
+        "lblAppDate": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d5ca7418fbfd44659aa057206c829913",
+                "srcKUID": "u4552262751b489a9d4b26a8845774c1",
+                "wType": "Label"
+            }
+        },
+        "lblAppDateValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f230efe474ea430eb8a286734a086170",
+                "srcKUID": "uccd5060a67142fe818be81396dd748b",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "12/15/2018"
+        },
+        "lblAppDetailsTitle": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "if67350fac6c4262a2441abbdb594006",
+                "srcKUID": "uf8c0662d8fe4073a5ae32d3c9a2a524",
+                "wType": "Label"
+            }
+        },
+        "lblAppId": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i92bab01155e4a988463e263f21ec5f5",
+                "srcKUID": "uda4cef1abe3452ba7b87b6361d34fa9",
+                "wType": "Label"
+            }
+        },
+        "lblAppIdValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f314cb2b794a4abcb018f9a2cb66d258",
+                "srcKUID": "uecd7993dce34c3c985c988e500e0ff5",
+                "wType": "Label"
+            }
+        },
+        "lblAppType": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j50db9b4b11c4ce5a68f89e516603cf4",
+                "srcKUID": "u66c8ba115c3489e953b4a40e788ac01",
+                "wType": "Label"
+            }
+        },
+        "lblCash": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hbe900ecd74241968b63bc0c5245822d",
+                "srcKUID": "u693091561a44d67a1f723f959946353",
+                "wType": "Label"
+            }
+        },
+        "lblTypeValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b4a9131f5a384bc38bcf73fef584156d",
+                "srcKUID": "uf2e055bee724ea4979f576e90aef116",
+                "wType": "Label"
+            }
+        },
+        "rtxCardDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e6d61b2727974b54a29fa9e59fb4edc9",
+                "srcKUID": "u77b64fd2ecc43458137010df2a00d1c",
+                "wType": "RichText"
+            }
+        },
+        "segAppSections": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "je6e348b519f4a0d9ea8d775715d8f0b",
+                "srcKUID": "u689d81bd9be44c788062ccd51a5ee05",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    [
+                        {
+                            "imgCCAppTick": {
+                                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                "src": "greentickmark_1.png"
+                            },
+                            "lblCCAppHeaderName": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Your Loan"
+                            },
+                            "lblCCAppHeaderNumber": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "1"
+                            },
+                            "lblCCAppHeaderStatus": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "In Progress"
+                            }
+                        },
+                        [
+                            {
+                                "imgCCAppRowBottomDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowTick": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "greentickmark_1.png"
+                                },
+                                "lblCCAppRowName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Loan Info"
+                                },
+                                "lblCCAppRowNumber": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "2"
+                                },
+                                "lblCCAppRowStatus": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Complete"
+                                }
+                            },
+                            {
+                                "imgCCAppRowBottomDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowTick": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "greentickmark_1.png"
+                                },
+                                "lblCCAppRowName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Applicant Info"
+                                },
+                                "lblCCAppRowNumber": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "3"
+                                },
+                                "lblCCAppRowStatus": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Complete"
+                                }
+                            },
+                            {
+                                "imgCCAppRowBottomDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_2.png"
+                                },
+                                "imgCCAppRowTick": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "greentickmark_1.png"
+                                },
+                                "lblCCAppRowName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Consent"
+                                },
+                                "lblCCAppRowNumber": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "4"
+                                },
+                                "lblCCAppRowStatus": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Complete"
+                                }
+                            },
+                            {
+                                "imgCCAppRowBottomDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "imgCCAppRowDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "imgCCAppRowTick": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": ""
+                                },
+                                "lblCCAppRowName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Verification"
+                                },
+                                "lblCCAppRowNumber": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "5"
+                                },
+                                "lblCCAppRowStatus": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "In Progress"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        }
+    },
+    "id": "ApplicationStatusRoadMap",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "cab6796ceecb4b2b99da503293194f5c",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxAsideContentKA",
+    "pf": "frmVerifyApplicationKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "u479cdd11e76455cbb500abe1308e5a8",
+    "wType": "UserWidgetInstance"
+}

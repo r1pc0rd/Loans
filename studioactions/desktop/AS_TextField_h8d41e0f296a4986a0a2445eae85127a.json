@@ -1,0 +1,30 @@
+{
+    "AS_TextField_h8d41e0f296a4986a0a2445eae85127a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "addSeparatorToDateInput",
+                "id": "INVOKE_FUNCTION__ide_onKeyUp_gde132df75d24abfbb9e1906d5bfbb11",
+                "inputparams": [
+                    {
+                        "name": "widget",
+                        "value": " eventobject"
+                    }
+                ],
+                "sequenceKUID": "addSeparatorToDateInput",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_h8d41e0f296a4986a0a2445eae85127a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

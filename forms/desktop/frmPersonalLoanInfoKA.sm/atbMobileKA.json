@@ -1,0 +1,132 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {},
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AnimatedTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g60ee8b2159a4459a58d0b4dc09e0b88",
+                "srcKUID": "e4f45e5667934e0e9e080905538beaaf",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxUnderlineKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e22de56027e64d649e2459b46ceb2262",
+                "srcKUID": "e7efcc16a98849efbed86d3a0a4b6ae8",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gd961399c4ec497f96656ec5211296c9",
+                "srcKUID": "a5f151fcef4f4df58adcec56cc9882da",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Mobile Number"
+        },
+        "lblErrorMsgKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "je6a624bf5d34a71a4a66ad1f82f9b9c",
+                "srcKUID": "jdea85c6e8ef44f48484f4834c769116",
+                "wType": "Label"
+            }
+        },
+        "tbxAnimatedKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f1437a72ee3e4bc8850b86d7d8155940",
+                "srcKUID": "dce3198936994da78b441375fe580d80",
+                "wType": "TextField"
+            }
+        }
+    },
+    "id": "atbMobileKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g60ee8b2159a4459a58d0b4dc09e0b88",
+    "layouttype": 2,
+    "masterType": 0,
+    "minheight": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxCoMobileKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "e4f45e5667934e0e9e080905538beaaf",
+    "wType": "UserWidgetInstance"
+}

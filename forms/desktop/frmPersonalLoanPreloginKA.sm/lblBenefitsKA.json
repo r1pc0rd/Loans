@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfd6ecf914cf49f3b63cdd5c1774cc07",
+    "_text_": "Benefits Include",
+    "_top_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "140px"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblBenefitsKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jce19b5cef4447ed808bc96e40be170a",
+    "name": "kony.ui.Label",
+    "parent": "flxPersonalLoansContentKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "sfd6ecf914cf49f3b63cdd5c1774cc07",
+            "top": {
+                "type": "string",
+                "value": "160dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "skin": "sfd6ecf914cf49f3b63cdd5c1774cc07",
+            "top": {
+                "type": "string",
+                "value": "25%"
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b3": {
+            "skin": "sc4ab9f1a7f04d86be1bad89440faa3a",
+            "top": {
+                "type": "string",
+                "value": "25%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "left": {
+                "type": "string",
+                "value": "6%"
+            },
+            "skin": "s916fd7a37ba4ac4b30b62cbc9e999b5",
+            "top": {
+                "type": "string",
+                "value": "14dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

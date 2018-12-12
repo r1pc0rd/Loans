@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "595dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4567f65623948f4a374917592d9bf54",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "344dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "View More"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf44d06ca8224832827ea7fdff757013",
+    "id": "btnVeiwMore",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b19fba8d3f91419faeec4e86afe1d170",
+    "name": "kony.ui.Button",
+    "parent": "flxMain",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "565dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "360dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "110dp"
+            },
+            "zIndex": 20
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.login.viewMore",
+    "wType": "Button",
+    "zindex": 20
+}

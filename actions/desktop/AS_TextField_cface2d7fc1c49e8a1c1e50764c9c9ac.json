@@ -1,0 +1,24 @@
+{
+    "AS_TextField_cface2d7fc1c49e8a1c1e50764c9c9ac": {
+        "id": "AS_TextField_cface2d7fc1c49e8a1c1e50764c9c9ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onBeginEditing_ea2d7099fa4e4b04ada7774a740e4bc3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateTextPlaceholder",
+            "display": "animateTextPlaceholder",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

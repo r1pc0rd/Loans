@@ -1,0 +1,45 @@
+{
+    "AS_TextField_b48774133c674eb8bb54cbac7ae1c8fa": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateReturningPlaceholder",
+                "id": "INVOKE_FUNCTION___c5c4e98b7fc1479a8a66282975e3f0c7",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblLastNameKA\""
+                    }
+                ],
+                "parentId": null,
+                "sequenceKUID": "animateReturningPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_b48774133c674eb8bb54cbac7ae1c8fa",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

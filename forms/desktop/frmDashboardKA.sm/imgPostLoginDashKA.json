@@ -1,0 +1,155 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "59dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "99dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmDashboardKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgPostLoginDashKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i5a21d65eabe4542bd63b2a0c61644ea",
+    "name": "kony.ui.Image2",
+    "parent": "flxImageKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "335dp"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "src": "postlogin_dashboard_image.png",
+            "top": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "320dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "335dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "src": "postlogin_dashboard_image.png",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "320dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "src": "postlogin_dashboard_image.png",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "ref",
+                "value": "preferred"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "src": "postlogin_dashboard_image.png",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

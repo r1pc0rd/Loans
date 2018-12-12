@@ -1,0 +1,92 @@
+{
+    "android": {
+        "font_name": "default"
+    },
+    "androidwearos": {
+        "font_name": "default"
+    },
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "font_color": "000000ff",
+    "font_name": "Helvetica",
+    "font_size": 156,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {
+        "font_name": "System"
+    },
+    "iphone": {
+        "font_name": "System"
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "None",
+        "isForked": true
+    },
+    "kuid": "s80acd2cd7ed4d31b700f5a297b11eaa",
+    "spaan": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaandroidtablet": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spabb": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaip": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spaipad": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawindowstablet": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "spawinphone8": {
+        "customCSS": "}\n.sknImgObjectFitCoverKA img{\ndisplay: block;\nwidth: 100% !important;\nheight: 100% !important;\nobject-fit: cover;\nobject-position: top; \n}",
+        "font_name": "Helvetica",
+        "isCustomCSSEnabled": true,
+        "isForked": true
+    },
+    "tabrcandroid": {
+        "font_name": "default"
+    },
+    "wType": "Image",
+    "watchos": {
+        "font_name": "System"
+    },
+    "windows8": {
+        "font_name": "None"
+    },
+    "winphone8": {
+        "font_name": "None"
+    }
+}

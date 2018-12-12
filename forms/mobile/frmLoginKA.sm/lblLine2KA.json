@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb637df237c14faab04d563198f4afd9",
+    "_top_": {
+        "type": "string",
+        "value": "193dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "lblLine2KA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h87fb05cd61046b080b1a8348153dff1",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxtryfingerprintagainKA",
+    "pf": "frmLoginKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

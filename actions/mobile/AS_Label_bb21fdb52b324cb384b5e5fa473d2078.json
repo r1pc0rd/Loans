@@ -1,0 +1,30 @@
+{
+    "AS_Label_bb21fdb52b324cb384b5e5fa473d2078": {
+        "id": "AS_Label_bb21fdb52b324cb384b5e5fa473d2078",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "name": "frmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e7292cff97db4123bb5d5fdbeb07c892",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickEnterPassword();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

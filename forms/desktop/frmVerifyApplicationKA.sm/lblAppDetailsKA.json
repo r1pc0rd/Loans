@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3df735594724a2f8ac3489f9d80431a",
+    "_text_": "Verify Application Details and Submit",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblAppDetailsKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a055f38bf2d84c55b9bf2c278b3564a3",
+    "name": "kony.ui.Label",
+    "parent": "flxApplicationDetailsTitleKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s2c8ff3c29b140718dcd05cedac0f6b5"
+        },
+        "b2": {
+            "skin": "sc4674fe1b2045cda1e9fe77a3cb705d",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 5,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s3df735594724a2f8ac3489f9d80431a"
+        },
+        "b4": {
+            "skin": "s2c8ff3c29b140718dcd05cedac0f6b5"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label"
+}

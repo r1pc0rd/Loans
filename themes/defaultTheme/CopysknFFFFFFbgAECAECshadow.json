@@ -1,0 +1,26 @@
+{
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "aecaecff",
+    "border_radius": 5,
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 1,
+    "iphone": {
+        "border_color": "ffffffff",
+        "border_type": 0,
+        "font_name": "System",
+        "isForked": true,
+        "shadow": {
+            "br": 8,
+            "color": "aecaecff",
+            "inner": false,
+            "nm": 0,
+            "x": 0,
+            "y": 4
+        }
+    },
+    "isDefaultSkin": false,
+    "kuid": "s6c461228d1543eaad39a4124eea43cb",
+    "wType": "FlexContainer"
+}

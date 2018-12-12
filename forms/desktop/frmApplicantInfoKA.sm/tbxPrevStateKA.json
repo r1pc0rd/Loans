@@ -1,0 +1,171 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s868f396f7214f4a994f41250d0384cd",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "desktopweb": {
+        "ide_onBeginEditing": "AS_TextField_b444e5bf73504c39a082d378c76ca7f8",
+        "ide_onEndEditing": "AS_TextField_e548fce4a09d46f984f8cf8cc7a15c76"
+    },
+    "disabledSkins": {
+        "focusSkin": "sae316e8c3cf4c129fdfe7c95cccf9c9"
+    },
+    "id": "tbxPrevStateKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ccf6f73dcc28490eb2e14f68e6203ddb",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxPrevStateKA",
+    "pf": "frmApplicantInfoKA",
+    "placeholderskin": "s57f8e33f41d4af884d86462b0684fac",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "28dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "padding": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "number",
+                "value": "-2"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "28dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "padding": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "padding": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "padding": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "number",
+                "value": "-2"
+            },
+            "text": "",
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 2
+}

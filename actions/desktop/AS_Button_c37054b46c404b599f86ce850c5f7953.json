@@ -1,0 +1,30 @@
+{
+    "AS_Button_c37054b46c404b599f86ce850c5f7953": {
+        "id": "AS_Button_c37054b46c404b599f86ce850c5f7953",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e2e93c40e5e44edfa3292a0e803dbd52",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmConsentKA",
+            "friendlyName": "frmConsentKA",
+            "formKUID": "g022908a0e644b2681f0945dfdfdb5ce",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

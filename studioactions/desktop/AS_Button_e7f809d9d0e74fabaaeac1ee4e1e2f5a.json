@@ -1,0 +1,32 @@
+{
+    "AS_Button_e7f809d9d0e74fabaaeac1ee4e1e2f5a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "handleLoginButtonClick",
+                "id": "INVOKE_FUNCTION___ha25cb4241f646a1b783604cc106e418",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "handleLoginButtonClick",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Button_e7f809d9d0e74fabaaeac1ee4e1e2f5a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

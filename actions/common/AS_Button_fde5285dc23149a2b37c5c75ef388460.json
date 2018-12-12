@@ -1,0 +1,21 @@
+{
+    "AS_Button_fde5285dc23149a2b37c5c75ef388460": {
+        "id": "AS_Button_fde5285dc23149a2b37c5c75ef388460",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_j5b0b8c82e764e5e8cfe77b0224b200a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadMap",
+            "display": "loadMap",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

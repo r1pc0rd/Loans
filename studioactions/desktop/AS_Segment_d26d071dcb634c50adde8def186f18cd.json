@@ -1,0 +1,36 @@
+{
+    "AS_Segment_d26d071dcb634c50adde8def186f18cd": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "this.onRowClickOfSegAddressSuggestions(rowNumber,eventobject);",
+                "id": "ADD_SNIPPET__ffa9662d948a41769304b4a38b00d5c0",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Segment_d26d071dcb634c50adde8def186f18cd",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "number",
+                "name": "sectionNumber"
+            },
+            {
+                "datatype": "number",
+                "name": "rowNumber"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

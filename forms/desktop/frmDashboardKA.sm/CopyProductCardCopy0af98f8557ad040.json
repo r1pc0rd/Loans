@@ -1,0 +1,115 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "CopyflxTabKA0fb52ef1470294d"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyProductCardCopy0af98f8557ad040",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e28a54f7199d43f59d70fff8ae6f8d72",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxFirstLineProductCardKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "290dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "290dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "256dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "250dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

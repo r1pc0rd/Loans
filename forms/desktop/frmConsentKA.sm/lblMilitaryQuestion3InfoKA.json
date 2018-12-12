@@ -1,0 +1,155 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "66dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "190dp"
+    },
+    "_skin_": "s0d9315626b64ecf94c1485a4bdc2a52",
+    "_text_": "This is your take-home pay each month after all taxes and deductions, subject to verification. Alimony, child support, or separate maintenance income is optional to include.",
+    "_top_": {
+        "type": "string",
+        "value": "-10dp"
+    },
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblMilitaryQuestion3InfoKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d7101c850cd04c2fadf4729a1c8053dc",
+    "name": "kony.ui.Label",
+    "parent": "flxMilitaryKA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "61dp"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "text": "This is your take-home pay each month after all taxes and deductions, subject to verification. Alimony, child support, or separate maintenance income is optional to include.",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "61dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "65%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "22dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "22dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "55dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_e4e6f5861a1549d4a1c4c0600d6bc442": {
+        "id": "AS_Button_e4e6f5861a1549d4a1c4c0600d6bc442",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ae14e736de7c4a44a91f7688f856d641",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "closeClosePopup",
+            "display": "closeClosePopup",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

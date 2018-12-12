@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sd5ee885757e49c3b2e15237c48169f2",
+    "_width_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblQuestionNumber3KA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxQuestionNumber3KA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f05008ead5ab4d599e980de736c58ab0",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxAddressHeaderKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "isVisible": true
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

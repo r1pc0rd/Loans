@@ -1,0 +1,117 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxAppDetailsTabletKA",
+        "flxAsideContentKA",
+        "flxBodyContentKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMainContentKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "af53b96be6e344d3b2dd71dd8785b1e7",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "string",
+        "value": "1200dp"
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMainContainerKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "right": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "number",
+                "value": "0"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

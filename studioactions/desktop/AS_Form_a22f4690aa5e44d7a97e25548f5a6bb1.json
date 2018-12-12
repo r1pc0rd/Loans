@@ -1,0 +1,28 @@
+{
+    "AS_Form_a22f4690aa5e44d7a97e25548f5a6bb1": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "if(kony.dbp.loans.AuthenticationDataProvider.runTestCases){\n  require(\"JasmineTests/AuthenticationModule/LoginTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansModule/GetAllApplicationTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansModule/NewCustomerRegistrationTests\")(jasmine.getEnv());\n  require(\"JasmineTests/LoansManager/GetLoanProduct\")(jasmine.getEnv());\n  jasmine.getEnv().execute();\n}",
+                "id": "ADD_SNIPPET__ae06a7ce410240459263ee2c3181a5a5",
+                "parentId": null,
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_a22f4690aa5e44d7a97e25548f5a6bb1",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

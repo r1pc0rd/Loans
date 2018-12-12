@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_g2487874408f42d3b978acd33d7230c3": {
+        "id": "AS_FlexContainer_g2487874408f42d3b978acd33d7230c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "ef0a96aaf45046e98792c06586d1913a",
+            "name": "frmPreLoginPersonalLoanKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d4e919e7b82a42589c1003a0658b26f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateToPreviousForm",
+            "display": "navigateToPreviousForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Form_ff73ce3baf4c4400934ff72acbcf17c4": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "preshowLogin2KA",
+                "id": "INVOKE_FUNCTION___fcca5123f06c4927afb687495a71408d",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "preshowLogin2KA",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_ff73ce3baf4c4400934ff72acbcf17c4",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

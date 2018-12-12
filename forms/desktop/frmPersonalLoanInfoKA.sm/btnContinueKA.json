@@ -1,0 +1,109 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "41dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s0c422d46c7547568c07ec91295e9877",
+    "_text_": "Continue",
+    "_width_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": "51%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s0c422d46c7547568c07ec91295e9877"
+    },
+    "displaytext": true,
+    "id": "btnContinueKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b3a7895c2bb5444399661e7a043263c6",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_h26847e4e8e24ab9a4fb7f1984a053bd",
+    "paddinginpixel": false,
+    "parent": "flxPurposeLoanButtonsKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "181dp"
+            }
+        },
+        "b2": {
+            "right": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "181dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "181dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "181dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

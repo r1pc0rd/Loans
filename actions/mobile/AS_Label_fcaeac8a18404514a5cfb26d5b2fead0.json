@@ -1,0 +1,30 @@
+{
+    "AS_Label_fcaeac8a18404514a5cfb26d5b2fead0": {
+        "id": "AS_Label_fcaeac8a18404514a5cfb26d5b2fead0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "name": "frmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i7692b22e23342ea8f163abbe83be3ff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCannotLoginClick();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

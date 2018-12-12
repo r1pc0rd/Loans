@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s75050b1ffb8421aae97e7ebb804f8c9",
+    "_text_": "View All Rate",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "296dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s197fd0526f944ac92b867c0c58af8e2"
+    },
+    "displaytext": true,
+    "id": "btnFindRatesKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b5623e69697f425397c04bc1d69d7ba8",
+    "name": "kony.ui.Button",
+    "parent": "flxComponentsContentKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b2": {
+            "skin": "s82f0d3d82204e199c99fbae2720e122"
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "skin": "s75050b1ffb8421aae97e7ebb804f8c9",
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

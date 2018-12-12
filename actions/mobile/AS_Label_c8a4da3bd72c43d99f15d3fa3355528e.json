@@ -1,0 +1,30 @@
+{
+    "AS_Label_c8a4da3bd72c43d99f15d3fa3355528e": {
+        "id": "AS_Label_c8a4da3bd72c43d99f15d3fa3355528e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "name": "frmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__de439d3bece448c49942abfc7fbcdb88",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickofTouchID();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

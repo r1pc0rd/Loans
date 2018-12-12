@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2941ad663334439803ad8fb2f9dad75",
+    "_text_": "No",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "",
+    "id": "btnNoKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ja4e99c50f564a87a969be9b18904e65",
+    "name": "kony.ui.Button",
+    "parent": "flxButtonContainerKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b1": {
+            "disabledSkins": {},
+            "focusSkin": "sb9b5fde028b49fdbca4163a00a27111",
+            "skin": "sda832a86a464dcd8db4b011f68d2d25"
+        },
+        "b2": {
+            "disabledSkins": {},
+            "focusSkin": "sb9b5fde028b49fdbca4163a00a27111",
+            "skin": "sda832a86a464dcd8db4b011f68d2d25"
+        },
+        "b3": {
+            "disabledSkins": {},
+            "focusSkin": "sb9b5fde028b49fdbca4163a00a27111",
+            "skin": "sda832a86a464dcd8db4b011f68d2d25"
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "focusSkin": "sfe99483e93a450daccf0f2faf37465b",
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s2941ad663334439803ad8fb2f9dad75",
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "256dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

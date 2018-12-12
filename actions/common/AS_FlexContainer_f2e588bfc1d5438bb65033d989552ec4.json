@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_f2e588bfc1d5438bb65033d989552ec4": {
+        "id": "AS_FlexContainer_f2e588bfc1d5438bb65033d989552ec4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "u7bfb4bbabb5435b8595d7758bda2ac6",
+            "name": "uwu7bfb4bbabb5435b8595d7758bda2ac6",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__eb8dbc0db0ff474280c765b006608787",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblAboutUsKA.skin = \"sknLblA0A0A0SSP20px\";\nthis.view.lblHomeKA.skin = \"sknLblSourceSansProRegular0A78D186PerKA\";\nthis.view.lblMyProfileKA.skin = \"sknLblA0A0A0SSP20px\"\nthis.view.lblNotificationsKA.skin = \"sknLblA0A0A0SSP20px\"\nthis.view.imgHomeKA.src = \"homeiconactive.png\"\nthis.view.imgAboutUsKA.src = \"aboutus.png\"\nthis.view.imgMyProfileKA.src = \"myprofile.png\"\nthis.view.imgNotificationsKA.src = \"menuicon.png\"\n    var navManager = applicationManager.getNavigationManager();\n        navManager.navigateTo(\"frmDashboardNewKA\");\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7e7ed3f36db494e9b48ef381b6f5247",
+    "_src_": "search_empty.png",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwub9880eb0efc4bbc9d0edb6c26fa6fd3",
+        "platform": "iphone",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "CopyImage0c9980dffa3f24b",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "bf6f332bbb3d45d7a0986574f38aa8f4",
+    "name": "kony.ui.Image2",
+    "parent": "noSearchResults",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

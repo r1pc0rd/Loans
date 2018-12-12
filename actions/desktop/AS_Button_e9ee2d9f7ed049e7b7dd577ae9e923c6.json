@@ -1,0 +1,30 @@
+{
+    "AS_Button_e9ee2d9f7ed049e7b7dd577ae9e923c6": {
+        "id": "AS_Button_e9ee2d9f7ed049e7b7dd577ae9e923c6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyFrmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j0329c6c64654440bf366abc8de81b74"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c4c940f1d61549b2b8d3c3f1fd1b424f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboardKA",
+            "friendlyName": "frmDashboardKA",
+            "formKUID": "e5f3e2d2d22e4b7b883a6e00d096c1e0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {
+        "b1": {
+            "isVisible": true
+        },
+        "b2": {
+            "isVisible": true
+        },
+        "b3": {
+            "left": {
+                "type": "number",
+                "value": "40"
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "265dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ProductCard": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d4ee113d00ab41c78aaad5e744094b40",
+                "srcKUID": "eddd06381e814353bdb20db74db1f79e",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {},
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "335dp"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "60dp"
+                }
+            },
+            "minWidth": {},
+            "responsiveData": {
+                "b1": {
+                    "isVisible": true
+                },
+                "b2": {
+                    "isVisible": true
+                },
+                "b3": {
+                    "left": {
+                        "type": "number",
+                        "value": "40"
+                    },
+                    "minWidth": {
+                        "type": "string",
+                        "value": ""
+                    }
+                },
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "height": {
+                        "type": "string",
+                        "value": "265dp"
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "minWidth": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "320dp"
+                }
+            }
+        },
+        "btnProductCardKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e1eeea1a75e74d79bd47c5db8e691f01",
+                "srcKUID": "a9f82cd4025b4a499301168ae80d24eb",
+                "wType": "Button"
+            }
+        },
+        "flxProductCardUnderlineKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2e7bece389d426ab35e6576744bc1a5",
+                "srcKUID": "e5dc8c1a299049eab6e4427e0d511b4c",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTabKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a3d22d88e8994c158972c537f6a1c14a",
+                "srcKUID": "ae6886f6f94e478da0e4b4f2d21bbc47",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "265dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "100%"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "imgProductCardTabKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fec917265c134ac58a0cc6947b985287",
+                "srcKUID": "ae5073cfef394c56a082b29d6e249619",
+                "wType": "Image"
+            }
+        },
+        "lblProductCardAprKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c6c9bd6f54894ba882d181d46ea58974",
+                "srcKUID": "a8a19cd66e5c4eb888be04e2fc7c3dd1",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "APR as low as"
+        },
+        "lblProductCardHeaderKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b3c57245997841cd9fd311ea433e4025",
+                "srcKUID": "a4ab3f2adfe44b2b8c26b07be9957ce4",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Vehicle Loans"
+        },
+        "lblProductCardInfoKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a74136667b974cf4959664b027b38998",
+                "srcKUID": "a8a50deb67ef4aac9d5ebaebc8a0b3e3",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Benefits Include:"
+        },
+        "lblProductCardLearnMoreKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dbe9ee7ed9c142f9a83762d07ea7fa87",
+                "srcKUID": "fc96804586464c059f3e7c70d907c7af",
+                "wType": "Label"
+            }
+        },
+        "lblProductCardPercentsKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc93fe17c73740cb928a943db376497d",
+                "srcKUID": "i1eef6dc0b774047ac715de6af9fd952",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "13.27 %"
+        }
+    },
+    "id": "pcVehicleLoansKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d4ee113d00ab41c78aaad5e744094b40",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSecondProductCardLineKA",
+    "pf": "frmLogin2KA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "eddd06381e814353bdb20db74db1f79e",
+    "wType": "UserWidgetInstance"
+}

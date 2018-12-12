@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s615a7aca55a412fa9427cfcb03b5e55",
+    "_text_": "A personal loan is an installment loan that you can<br>use for a variety of reasons2. From debt<br>consolidation to home improvements to vacations,<br>you can plan for both the expected and<br>unexpected......",
+    "_top_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "75.40%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {
+        "linkSkin": "s750e12f771d4c1d8745f7684616875a"
+    },
+    "id": "rtxWhatIsPersonalLoanKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d87902d90fd7496fac3690007d40f31c",
+    "name": "kony.ui.RichText",
+    "parent": "flxWhatIsPersonalLoanKA",
+    "pf": "frmLoansDashboardKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

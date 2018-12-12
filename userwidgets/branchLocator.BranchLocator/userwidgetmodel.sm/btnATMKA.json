@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s5ca2d4bb3074a2bad5eea8146bb6844",
+    "_text_": "BUSINESS",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa19cde02d494050b96d9e1b60249c66",
+    "id": "btnATMKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d6faceb0069a43bd88485965470df90a",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c885310c13474e4e8940af471b322cd0",
+    "paddinginpixel": false,
+    "parent": "searchAccountFilters",
+    "pf": "userwidgetmodel",
+    "texti18n": "i18n.locateus.btnATM",
+    "wType": "Button",
+    "zindex": 1
+}

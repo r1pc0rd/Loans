@@ -1,0 +1,38 @@
+{
+    "AS_TextField_g167dfbc03d44df2828df0245afaa0c4": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateReturningPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onEndEditing_c035a1294c3740da91624ac61cfc445c",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": " eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblPrevZippcodeKA\""
+                    }
+                ],
+                "sequenceKUID": "animateReturningPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_g167dfbc03d44df2828df0245afaa0c4",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

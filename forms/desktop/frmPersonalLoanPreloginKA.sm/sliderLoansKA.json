@@ -1,0 +1,116 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 35000,
+    "_min_": 1000,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 1000,
+    "_thickness_": 3,
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "thumbImage": "slider_android.png"
+    },
+    "androidwearos": {
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "focusthumbimage": "slidersmall_1.png",
+    "id": "sliderLoansKA",
+    "imgwt": 34,
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "focusThumbImage": "slidersmall_1.png",
+        "thumbImage": "slidersmall_1.png"
+    },
+    "kuid": "b595fd818573446aa7291f026c3aabae",
+    "leftskin": "s87a4cfe32884d798a474e5e58422641",
+    "name": "kony.ui.Slider",
+    "noofsteps": 34,
+    "osPlatform": "desktopweb",
+    "osVersion": "iOS7",
+    "parent": "flxLoanAmountLoansKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b2": {},
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "top": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rightskin": "s3be0822141f4d7d9942676b1c997dcd",
+    "selectedvalue": 5000,
+    "stepwidth": 0.7352941176470589,
+    "tabrcandroid": {
+        "thumbImage": "slider_android.png"
+    },
+    "thumbimage": "slidersmall_1.png",
+    "wType": "Slider",
+    "widgetalignment": 5,
+    "zindex": 10
+}

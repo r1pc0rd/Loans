@@ -1,0 +1,30 @@
+{
+    "AS_Button_d19504e90dca4a58b3a7eea57b7545e2": {
+        "id": "AS_Button_d19504e90dca4a58b3a7eea57b7545e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "flxLoanStatusKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd6d9da8baf849739aa8027f30408d00"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f9c2b339a2684149b766af70dfb8dd12",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboardKA",
+            "friendlyName": "frmDashboardKA",
+            "formKUID": "e5f3e2d2d22e4b7b883a6e00d096c1e0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

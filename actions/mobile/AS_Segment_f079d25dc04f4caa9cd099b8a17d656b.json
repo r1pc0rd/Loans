@@ -1,0 +1,36 @@
+{
+    "AS_Segment_f079d25dc04f4caa9cd099b8a17d656b": {
+        "id": "AS_Segment_f079d25dc04f4caa9cd099b8a17d656b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "KUID": "j8af9768e4c54ebfa2affc781048f858",
+            "name": "frmDashboardNewKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a62546fc869e45238eca94d4707446a9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoansDashboardKA",
+            "friendlyName": "frmLoansDashboardKA",
+            "formKUID": "c4ae9f34f88844dd9f192f065c018291",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

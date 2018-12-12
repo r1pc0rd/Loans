@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94b1d2870fe4c609e3788287a99a173",
+    "_text_": "12/15/2018",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblDateKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jc2b937807434ed6accdb3b1cbb3c0a4",
+    "name": "kony.ui.Label",
+    "parent": "flxRightKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s94b1d2870fe4c609e3788287a99a173"
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s039c0e640244e7bbc49e9a07a235011",
+            "top": {
+                "type": "string",
+                "value": "60dp"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s489a373939d4459b74c953e71bc3f41",
+            "top": {
+                "type": "string",
+                "value": "26dp"
+            }
+        },
+        "b4": {
+            "skin": "s94b1d2870fe4c609e3788287a99a173"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label"
+}

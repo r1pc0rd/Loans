@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_fc19db05b79b47189fe10a9a9e8a0694": {
+        "id": "AS_FlexContainer_fc19db05b79b47189fe10a9a9e8a0694",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "j8af9768e4c54ebfa2affc781048f858",
+            "name": "frmDashboardNewKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c886e1adab90454e8b58a6c05a1102e7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getApplications();\nthis.disableAndroidMenu();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,497 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "lblMyApplicationHeaderKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Not Submitted Applications"
+                }
+            },
+            [
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                },
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                },
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblMyApplicationHeaderKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Submitted Applications"
+                }
+            },
+            [
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                },
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                },
+                {
+                    "btnResumeApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Resume Application"
+                    },
+                    "imgLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personalloan_2.png"
+                    },
+                    "lblApplicationIDKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ID"
+                    },
+                    "lblApplicationIDTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application ID:"
+                    },
+                    "lblApplicationStartDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblApplicationStartDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Application Start Date:"
+                    },
+                    "lblDeleteApplicationKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Delete Application"
+                    },
+                    "lblLoanAmountKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$"
+                    },
+                    "lblLoanAmountTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Loan Amount:"
+                    },
+                    "lblLoanEditDateKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MM/DD/YYYY"
+                    },
+                    "lblLoanEditDateTextKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Last Edited on:"
+                    },
+                    "lblLoanTypeKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Personal Loan"
+                    },
+                    "lblToCheckKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "collapsed"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "6.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "12",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segSubmittedKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        },
+        "render": true,
+        "top": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "db782922010a4a2fbc5e71745b2922ea",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_fe47cc00fc4f43a2ab8c7ec320012ebc",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContentKA",
+    "pf": "frmMyApplicationsKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "fb6a34dfe0c445ba9c7d0ef2407fe04e",
+    "rowcounter": 2,
+    "rowfocusskin": "s52b9491e36340688c1e9267f6d03958",
+    "rowskin": "s52b9491e36340688c1e9267f6d03958",
+    "rowtemplate": "flxApplicationsLoanTypeKA",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "c5a18a6e8bf74ca4947716f36d011562",
+    "sectionheaderskin": "see404f5bf65480f97f5b45364fddaea",
+    "sectionheadertemplate": "flxMyApplicationHeaderKA",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": true,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnResumeApplicationKA": "btnResumeApplicationKA",
+        "flxApplicationsLoanTypeKA": "flxApplicationsLoanTypeKA",
+        "flxContainer01KA": "flxContainer01KA",
+        "flxDetailsLoansKA": "flxDetailsLoansKA",
+        "flxLoanItemKA": "flxLoanItemKA",
+        "flxLoanTypeImageKA": "flxLoanTypeImageKA",
+        "flxMainKA": "flxMainKA",
+        "flxMyApplicationHeaderKA": "flxMyApplicationHeaderKA",
+        "flxSeparator01KA": "flxSeparator01KA",
+        "flxSeparator02KA": "flxSeparator02KA",
+        "imgLoanTypeKA": "imgLoanTypeKA",
+        "lblApplicationIDKA": "lblApplicationIDKA",
+        "lblApplicationIDTextKA": "lblApplicationIDTextKA",
+        "lblApplicationStartDateKA": "lblApplicationStartDateKA",
+        "lblApplicationStartDateTextKA": "lblApplicationStartDateTextKA",
+        "lblDeleteApplicationKA": "lblDeleteApplicationKA",
+        "lblLoanAmountKA": "lblLoanAmountKA",
+        "lblLoanAmountTextKA": "lblLoanAmountTextKA",
+        "lblLoanEditDateKA": "lblLoanEditDateKA",
+        "lblLoanEditDateTextKA": "lblLoanEditDateTextKA",
+        "lblLoanTypeKA": "lblLoanTypeKA",
+        "lblMyApplicationHeaderKA": "lblMyApplicationHeaderKA",
+        "lblToCheckKA": "lblToCheckKA"
+    },
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

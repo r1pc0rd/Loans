@@ -1,0 +1,32 @@
+{
+    "AS_Form_ff4b812fb3ed4ad48eda3a2b05eed7f2": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "onPreShowLoginForm",
+                "id": "INVOKE_FUNCTION___ee9afa941f144d22850aafcc9db2d2ca",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "onPreShowLoginForm",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_ff4b812fb3ed4ad48eda3a2b05eed7f2",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

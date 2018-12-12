@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "s64e44762d3c4a3aa6e897cf047a005a",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "string",
+        "value": "165dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s64e44762d3c4a3aa6e897cf047a005a",
+    "id": "btnApplyNowKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f9d535c964274fd382c4a5ce1aac9191",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c846e27225334c5594cedd3674203463",
+    "parent": "flxPrequalifiedCardKA",
+    "pf": "frmLoansDashboardKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

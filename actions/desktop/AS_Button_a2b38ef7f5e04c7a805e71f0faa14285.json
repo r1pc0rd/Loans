@@ -1,0 +1,30 @@
+{
+    "AS_Button_a2b38ef7f5e04c7a805e71f0faa14285": {
+        "id": "AS_Button_a2b38ef7f5e04c7a805e71f0faa14285",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "g022908a0e644b2681f0945dfdfdb5ce",
+            "name": "frmConsentKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ecfa17c68a8f4adaa6cb51019e1f470a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmVerifyApplicationKA",
+            "friendlyName": "frmVerifyApplicationKA",
+            "formKUID": "cea389226eb0487a9935eb439d2fcbdd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

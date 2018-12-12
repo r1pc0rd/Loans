@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3479602be9147cc81f53aa719388e1b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": true,
+    "allowverticalbounce": false,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "btnATMKA",
+        "btnBothKA",
+        "btnBranchKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": false,
+    "id": "searchAccountFilters",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f3cd53d3405b47aba402a09a037d4b2f",
+    "layouttype": 3,
+    "masterType": 1,
+    "name": "kony.ui.FlexScrollContainer",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "mainContent",
+    "percent": true,
+    "pf": "userwidgetmodel",
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1
+}

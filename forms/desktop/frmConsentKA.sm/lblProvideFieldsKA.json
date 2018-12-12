@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "490dp"
+    },
+    "_skin_": "s0355cd919724d5ba45cdaa995545be7",
+    "_text_": "Contact Info",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblProvideFieldsKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f7afae20ee7a4663bb3382c159d36fda",
+    "minwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.Label",
+    "parent": "flxMainKA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false,
+            "right": {
+                "type": "string",
+                "value": "490dp"
+            },
+            "text": "Employment Info"
+        },
+        "b2": {
+            "isVisible": false,
+            "skin": "s0355cd919724d5ba45cdaa995545be7",
+            "text": "Employment Info"
+        },
+        "b3": {
+            "contentAlignment": 5,
+            "height": {
+                "type": "string",
+                "value": "45dp"
+            },
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "sb9660336f1d475c9d8c3a673923ebbd",
+            "text": "Employment Info",
+            "top": {
+                "type": "string",
+                "value": "45dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            },
+            "zIndex": 2
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "25dp"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "26dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "129dp"
+            },
+            "skin": "s948d34860b64e0fbdea37e5da9e8922",
+            "text": "Please Provide below fields",
+            "top": {
+                "type": "string",
+                "value": "206dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

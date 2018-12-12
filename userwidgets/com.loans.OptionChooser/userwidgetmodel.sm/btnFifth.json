@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3a76996a8f7431aa28603af0a9bdc73",
+    "_text_": "Fifth Button",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s02787c32d4b48bca72e5860b4ceeea5"
+    },
+    "displaytext": true,
+    "focusskin": null,
+    "id": "btnFifth",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "if16442b7d1b409bb84ea80c94515612",
+    "name": "kony.ui.Button",
+    "parent": "flxFifth",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 2
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Image_ca21691c246b418fa471fbe2c10d20e2": {
+        "id": "AS_Image_ca21691c246b418fa471fbe2c10d20e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_af8a80150c3b486d9885814be2ce668b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.visibleAndroidMenu();",
+            "callbackType": null
+        }]
+    }
+}

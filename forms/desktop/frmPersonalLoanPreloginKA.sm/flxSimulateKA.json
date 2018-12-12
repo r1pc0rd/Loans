@@ -1,0 +1,104 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb14e43ee63f4df7a84d910b42a12a3d",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "lblSimulateTitleKA",
+        "flxButtonContainerKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSimulateKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fcbfd8360df84c7c8d33fe101b9ea2c3",
+    "layouttype": 2,
+    "minwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxContentKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "layoutType": 4,
+            "minWidth": {
+                "type": "string",
+                "value": "320dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

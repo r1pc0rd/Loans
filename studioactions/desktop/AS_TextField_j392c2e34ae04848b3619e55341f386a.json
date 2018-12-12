@@ -1,0 +1,36 @@
+{
+    "AS_TextField_j392c2e34ae04848b3619e55341f386a": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "toggleLoginButtonAvaliability",
+                "id": "INVOKE_FUNCTION___f14234176b824265bddf3b13f8afbc11",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "toggleLoginButtonAvaliability",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_TextField_j392c2e34ae04848b3619e55341f386a",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

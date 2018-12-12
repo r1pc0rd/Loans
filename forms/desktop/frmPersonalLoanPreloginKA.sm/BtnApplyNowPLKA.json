@@ -1,0 +1,123 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4edc557c7b344608917b0a72ca070f3",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "string",
+        "value": "474dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sdc9fde3526a4600ad253ab8cccec43e"
+    },
+    "displaytext": true,
+    "id": "BtnApplyNowPLKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e41326e7616346ac9f65d3297ed5df71",
+    "name": "kony.ui.Button",
+    "parent": "flxPersonalLoansContentKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s4edc557c7b344608917b0a72ca070f3",
+            "top": {
+                "type": "string",
+                "value": "510dp"
+            }
+        },
+        "b2": {
+            "top": {
+                "type": "string",
+                "value": "85%"
+            },
+            "width": {
+                "type": "string",
+                "value": "45%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "35px"
+            },
+            "skin": "s1b03b154432477dbb13fc01b8ab19a7",
+            "top": {
+                "type": "string",
+                "value": "80%"
+            },
+            "width": {
+                "type": "string",
+                "value": "250dp"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "6%"
+            },
+            "skin": "s4edc557c7b344608917b0a72ca070f3",
+            "top": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87.50%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

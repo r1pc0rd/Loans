@@ -1,0 +1,129 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "21dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "flxLoanStatusKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgDropdownKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a70c471e4aff4a71ac03537b88fc6ecb",
+    "name": "kony.ui.Image2",
+    "parent": "flxMenuContentKA",
+    "pf": "flxLoanStatusKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "7dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "294dp"
+            },
+            "src": "headerdropdown.png",
+            "top": {
+                "type": "string",
+                "value": "26dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "12dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "7dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "294dp"
+            },
+            "src": "headerdropdown.png",
+            "top": {
+                "type": "string",
+                "value": "26dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "12dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "7dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "238dp"
+            },
+            "src": "headerdropdown.png",
+            "top": {
+                "type": "string",
+                "value": "23dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "12dp"
+            }
+        },
+        "b4": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

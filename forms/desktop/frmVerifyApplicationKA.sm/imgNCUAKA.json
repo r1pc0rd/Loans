@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "45%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmVerifyApplicationKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgNCUAKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c6faf191578b46779afcf86fa0bf7787",
+    "name": "kony.ui.Image2",
+    "parent": "flxFooterKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "src": "ncua_5.png"
+        },
+        "b2": {
+            "right": {
+                "type": "string",
+                "value": "3dp"
+            },
+            "src": "ncua_5.png"
+        },
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "centerY": {
+                "type": "string",
+                "value": "55%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "src": "ncua_5.png",
+            "width": {
+                "type": "string",
+                "value": "86dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_f21ed0e90fa2452a8f50260c5685b217": {
+        "id": "AS_Form_f21ed0e90fa2452a8f50260c5685b217",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "name": "frmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e82aa57bf644444d915881d74a7f76e1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "try{\n  if(kony.dbp.loans.testDataProvider.runTestCases){\n    require(\"JasminTests/AuthenticationModule/LoginTest\")(jasmine.getEnv());\n    require(\"JasminTests/LandingModule/LoanTypesTests\")(jasmine.getEnv());\n    require(\"JasminTests/Loans/SimulationTest\")(jasmine.getEnv());\n    require(\"JasminTests/Loans/ApplicationTests\")(jasmine.getEnv());\n    require(\"JasminTests/AuthenticationModule/LoginPin\")(jasmine.getEnv());\n    jasmine.getEnv().execute();\n  }\n}\ncatch(err){\n  alert(JSON.stringify(err));\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "540dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "82dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "670dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblPersonalLoansKA",
+        "lblPersonalLoansDescKA",
+        "lblLearnmoreKA",
+        "lblBenefitsKA",
+        "rtxtBenefitsIncludeKA",
+        "lblAPRRateKA",
+        "BtnApplyNowPLKA",
+        "flxPLoansCapAmountKA",
+        "flxPLoansCapAmountTKA",
+        "FlexGroup0j24eb3afe26245"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxPersonalLoansContentKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j609d4d9c91c4a468539d347a12218cc",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMainKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "610dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "610dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "6%"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "610dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "500dp"
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

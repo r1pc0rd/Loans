@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7fb939ed2f54769981ad44a057132c5",
+    "_text_": "Cash Card is one of the most popular cash backcards, earning you 2% cash back on purchases, and 1% cash back as you pay for those purchases.",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxCardDescription",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u0d57ba730b24272b0f44105ba6145a7",
+    "linkskin": "s48ee14742f442a7bd1808d6fd42f97a",
+    "name": "kony.ui.RichText",
+    "parent": "flxCreditCardContainer",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

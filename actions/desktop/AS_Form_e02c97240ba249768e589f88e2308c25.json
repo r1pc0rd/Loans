@@ -1,0 +1,31 @@
+{
+    "AS_Form_e02c97240ba249768e589f88e2308c25": {
+        "id": "AS_Form_e02c97240ba249768e589f88e2308c25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "breakpoint"
+        }],
+        "contextObj": {
+            "KUID": "e5f3e2d2d22e4b7b883a6e00d096c1e0",
+            "name": "frmDashboardKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bbdd003079e84482a0accf9afe1d874b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onBreakpointChange",
+            "display": "onBreakpointChange",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s72959216e9e41c299d8648e73c07f03",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "193dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s72959216e9e41c299d8648e73c07f03",
+    "id": "btnContinueLater",
+    "ide_onClick": "AS_Button_df506667afc24df9a77ca4a084979319",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gdacc8ee1171441b8b6e67cc7b9a9934",
+    "name": "kony.ui.Button",
+    "parent": "flxCloseMainKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "31dp"
+            },
+            "text": "Save & Continue Later",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "209dp"
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": "27dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "36dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "27dp"
+            },
+            "text": "Save & Continue Later",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "188dp"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": "26%"
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "text": "Save & Continue Later",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "86%"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "text": "Save & Continue Later",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "209dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

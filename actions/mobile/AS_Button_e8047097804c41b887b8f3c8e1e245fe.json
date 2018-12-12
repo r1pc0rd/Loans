@@ -1,0 +1,24 @@
+{
+    "AS_Button_e8047097804c41b887b8f3c8e1e245fe": {
+        "id": "AS_Button_e8047097804c41b887b8f3c8e1e245fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "c4ae9f34f88844dd9f192f065c018291",
+            "name": "frmLoansDashboardKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h5ddfaef02b04443a006209eff1c3075",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToSimulationHomePage();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

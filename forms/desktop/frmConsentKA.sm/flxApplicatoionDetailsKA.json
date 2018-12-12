@@ -1,0 +1,110 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s78ac27a34ed40f5b9cf3255ceb412cb",
+    "_top_": {
+        "type": "string",
+        "value": "193dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "ApplicationStatusRoadMapKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxApplicatoionDetailsKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a2a5c0bd23ef43c8adc2021eb7d410f9",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexGroup0fe8f75c9a46f4b",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "layoutType": 2,
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "170dp"
+            }
+        },
+        "b2": {
+            "layoutType": 4,
+            "maxWidth": {
+                "type": "string",
+                "value": "355dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "170dp"
+            }
+        },
+        "b3": {},
+        "b4": {
+            "isVisible": false,
+            "layoutType": 4,
+            "right": {
+                "type": "string",
+                "value": "24dp"
+            },
+            "skin": "s93c228bc82c4806bd1a6ef568f4754d",
+            "top": {
+                "type": "string",
+                "value": "192dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

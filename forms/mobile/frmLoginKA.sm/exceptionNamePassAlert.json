@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AlertMessage": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a7b6e2682e8a4bcaba761af2fe0d867a",
+                "srcKUID": "fe9b665132be43129f4a4c95e7fe2cad",
+                "wType": "FlexContainer"
+            },
+            "isVisible": false
+        },
+        "flxExceptionMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efd659af046144e580d7a5c3779a3a87",
+                "srcKUID": "ef3f55877007442d9b385f6bd426d11d",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true
+        },
+        "imgAlertIconKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dc2dd0ba20ff4ebfa68d3a2747ff191c",
+                "srcKUID": "bcfa2dc12c314987bdba2fa52ffd60a1",
+                "wType": "Image"
+            }
+        },
+        "lblExceptionMessageKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ha0c553caf524f3b92728ab51a003305",
+                "srcKUID": "c208f48a52814679a0304beef7259507",
+                "wType": "Label"
+            },
+            "isVisible": true,
+            "text": "Incorrect username or password !"
+        }
+    },
+    "id": "exceptionNamePassAlert",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": false,
+    "kuid": "a7b6e2682e8a4bcaba761af2fe0d867a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxNamePassKA",
+    "pf": "frmLoginKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "fe9b665132be43129f4a4c95e7fe2cad",
+    "wType": "UserWidgetInstance"
+}

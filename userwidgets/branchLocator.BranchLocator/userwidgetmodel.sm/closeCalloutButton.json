@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc7f32af20c54e3582fbc9f9a304c440",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc7f32af20c54e3582fbc9f9a304c440",
+    "id": "closeCalloutButton",
+    "info": null,
+    "isvisible": false,
+    "kuid": "e7c9b9ed8acb4270b80c879cafc14e40",
+    "name": "kony.ui.Button",
+    "parent": "locatorMapView",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 1
+}

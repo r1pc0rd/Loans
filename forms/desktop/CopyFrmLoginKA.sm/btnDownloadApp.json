@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "19dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8e36b0f445c4bdebea8a7bf912a6e2a",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "618dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Button"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sf44d06ca8224832827ea7fdff757013",
+    "hoverskin": "",
+    "id": "btnDownloadApp",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ffeb10d5cd444317a0019b9f56bbe56d",
+    "name": "kony.ui.Button",
+    "parent": "flxLogin",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "desktopweb": {
+                "psp": {
+                    "hoverSkin": "s9b90c988073490385984170a1e4db2f"
+                }
+            },
+            "disabledSkins": {},
+            "focusSkin": "s9b90c988073490385984170a1e4db2f",
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "skin": "s8e36b0f445c4bdebea8a7bf912a6e2a",
+            "text": "Download Mobile App from Store",
+            "top": {
+                "type": "string",
+                "value": "90%"
+            },
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 5
+}

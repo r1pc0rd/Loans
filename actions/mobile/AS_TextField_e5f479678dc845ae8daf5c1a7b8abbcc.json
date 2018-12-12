@@ -1,0 +1,27 @@
+{
+    "AS_TextField_e5f479678dc845ae8daf5c1a7b8abbcc": {
+        "id": "AS_TextField_e5f479678dc845ae8daf5c1a7b8abbcc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ifc6bfc8ab614069abcb47b161965b52",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onDonecheckForEmptyPasswordAndSetVisForEye();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

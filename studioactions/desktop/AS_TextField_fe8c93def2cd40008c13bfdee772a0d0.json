@@ -1,0 +1,38 @@
+{
+    "AS_TextField_fe8c93def2cd40008c13bfdee772a0d0": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "animateReturningPlaceholder",
+                "id": "INVOKE_FUNCTION__ide_onEndEditing_abeb530d2bf2418f9bc167c1cc6e6028",
+                "inputparams": [
+                    {
+                        "name": "fieldId",
+                        "value": "eventobject"
+                    },
+                    {
+                        "name": "placeholderId",
+                        "value": "\"lblPrevCountryKA\""
+                    }
+                ],
+                "sequenceKUID": "animateReturningPlaceholder",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_fe8c93def2cd40008c13bfdee772a0d0",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

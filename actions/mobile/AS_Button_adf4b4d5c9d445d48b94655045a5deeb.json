@@ -1,0 +1,24 @@
+{
+    "AS_Button_adf4b4d5c9d445d48b94655045a5deeb": {
+        "id": "AS_Button_adf4b4d5c9d445d48b94655045a5deeb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "j8af9768e4c54ebfa2affc781048f858",
+            "name": "frmDashboardNewKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j46a08fdfe1d48548e727eb661a83344",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "    var navManager = applicationManager.getNavigationManager();\n        navManager.navigateTo(\"frmMyApplicationsKA\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

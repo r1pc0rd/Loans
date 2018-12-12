@@ -1,0 +1,81 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "1200dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxHamburgerKA",
+        "flxMenuHomeKA",
+        "lblSeperatorOne",
+        "flxMenuLoansKA",
+        "lblSeperatorTwo",
+        "flxMenuAboutUsKA",
+        "lblSeperatorThree",
+        "flxMenuContactUsKA",
+        "flxHelpUsKA",
+        "lblSeperatorLastKA",
+        "flxFeedBackKA",
+        "lblMobileHeadingKA",
+        "lblCloseMobileKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMenuContainerKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b20f5ca19ea846c79e31f1abebc32b1b",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "string",
+        "value": "1200dp"
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenukA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {},
+        "b3": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

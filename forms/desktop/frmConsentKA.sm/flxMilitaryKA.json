@@ -1,0 +1,166 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "480dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "395dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxMilitaryHeader1KA",
+        "lblMilitaryQuestion1KA",
+        "flxMilitaryQuestion2KA",
+        "flxMilitaryHeader2KA",
+        "flxMilitaryDOBKA",
+        "lblMilitaryQuestion3KA",
+        "lblMilitaryQuestion3InfoKA",
+        "flxMilitaryListBox1KA",
+        "lblMilitaryQuestion7KA",
+        "flxMilitaryQuestion4KA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMilitaryKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "g0700bd6a7214f8f9e3f6f0024ab6e34",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "minheight": {
+        "type": "number",
+        "value": ""
+    },
+    "minwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxBodyKA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "layoutType": 4,
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b3": {
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "500dp"
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

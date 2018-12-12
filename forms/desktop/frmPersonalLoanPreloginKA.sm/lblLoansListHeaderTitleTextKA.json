@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5px"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10px"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s6857a168bc942c1a16e46e1fd980d17",
+    "_text_": "No matter if doing it yourself or with our support, we help you to take care of your financial needs",
+    "_top_": {
+        "type": "string",
+        "value": "10px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblLoansListHeaderTitleTextKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ee5073afe2a749c18ffc9cd5c497d126",
+    "name": "kony.ui.Label",
+    "parent": "flxLoansListHeaderKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "sc45a9dd3bcf4d738f8bff9eb06dd3d2"
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "2%"
+            },
+            "skin": "sc45a9dd3bcf4d738f8bff9eb06dd3d2"
+        },
+        "b3": {
+            "skin": "s3fcedaa759f400c81239d331be8e7bf",
+            "top": {
+                "type": "string",
+                "value": "10px"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s6857a168bc942c1a16e46e1fd980d17",
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

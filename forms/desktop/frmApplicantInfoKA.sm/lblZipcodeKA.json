@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "6px"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "20px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s05202478af64a21a4f6cc1a0565d10b",
+    "_text_": "First Name",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblZipcodeKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a375e9364ea34681b953526f34556318",
+    "name": "kony.ui.Label",
+    "parent": "flxFirstNameKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "sa104f3a47fc45f0adcacf15a514aadf"
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "s05202478af64a21a4f6cc1a0565d10b"
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "skin": "s11249f84c704b29923784c232507896",
+            "zIndex": 1
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

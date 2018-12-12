@@ -1,0 +1,21 @@
+{
+    "AS_ListBox_f433b120d52f4f22835e8a0cdba70fef": {
+        "id": "AS_ListBox_f433b120d52f4f22835e8a0cdba70fef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onSelection_e58ca1a5695f487fa16abab8bd35abb5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "checkThatAllFieldsAreFilled",
+            "display": "checkThatAllFieldsAreFilled",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

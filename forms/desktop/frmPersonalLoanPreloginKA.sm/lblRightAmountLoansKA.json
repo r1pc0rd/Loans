@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s9d25a4bfabd4d4993c34f1b22ff8d30",
+    "_text_": "30k",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblRightAmountLoansKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fee5b22a26da440982686ba02e14cbad",
+    "name": "kony.ui.Label",
+    "parent": "flxLoanAmountLoansKA",
+    "pf": "frmPersonalLoanPreloginKA",
+    "responsiveData": {
+        "b2": {
+            "contentAlignment": 6,
+            "skin": "s6d1a13ddb654c8893fe69514cca6f5c"
+        },
+        "b4": {
+            "contentAlignment": 6,
+            "skin": "s003ba140bb240ca8bfb00cc2755766f",
+            "top": {
+                "type": "string",
+                "value": "50dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 10
+}

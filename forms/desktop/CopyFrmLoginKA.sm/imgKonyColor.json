@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "95dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "konydbxlogo_customer_landing_1_1.png",
+    "_top_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "224dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "CopyFrmLoginKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgKonyColor",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e48ddb3de286436dacb307c914b67607",
+    "name": "kony.ui.Image2",
+    "parent": "flxLogin",
+    "pf": "CopyFrmLoginKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "43dp"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "73dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "64dp"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "48%"
+            },
+            "height": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "isVisible": false,
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "5%"
+            },
+            "width": {
+                "type": "string",
+                "value": "146dp"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "isVisible": false,
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "104%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "MM/DD/YYYY",
+    "_skin_": "s868f396f7214f4a994f41250d0384cd",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "-2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "104%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "ide_onEndEditing": "AS_TextField_c0b66a31f89a499f8209d1e789ae1f2b",
+        "ide_onKeyUp": "AS_TextField_h8d41e0f296a4986a0a2445eae85127a"
+    },
+    "disabledSkins": {},
+    "focusskin": "s868f396f7214f4a994f41250d0384cd",
+    "id": "tbxDateKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d90132234c574f17a3abf1f5d1085731",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxDOBKA",
+    "pf": "frmApplicantInfoKA",
+    "placeholderskin": "s57f8e33f41d4af884d86462b0684fac",
+    "responsiveData": {
+        "b1": {
+            "disabledSkins": {}
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "disabledSkins": {},
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s868f396f7214f4a994f41250d0384cd"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

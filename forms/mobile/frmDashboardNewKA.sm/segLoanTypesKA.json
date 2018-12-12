@@ -1,0 +1,189 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgLoanType2KA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "personalloan_1.png"
+            },
+            "imgLoanTypeIconKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "polygonabstract_1.png"
+            },
+            "lblFullNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "For Everything you need"
+            },
+            "lblLoanTypeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Personal Loan"
+            }
+        },
+        {
+            "imgLoanType2KA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "vehicleloansmall_1.png"
+            },
+            "imgLoanTypeIconKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "polygonabstract_1.png"
+            },
+            "lblFullNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "The vehicle you want and deserve"
+            },
+            "lblLoanTypeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Vehicle Loan"
+            }
+        },
+        {
+            "imgLoanType2KA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "creditcards_1.png"
+            },
+            "imgLoanTypeIconKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "polygonabstract_1.png"
+            },
+            "lblFullNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "For Everything you need"
+            },
+            "lblLoanTypeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Credit Cards"
+            }
+        },
+        {
+            "imgLoanType2KA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "mortgagesmall.png"
+            },
+            "imgLoanTypeIconKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "polygonabstract_1.png"
+            },
+            "lblFullNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Achieve your dream house"
+            },
+            "lblLoanTypeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mortgage Loan"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "49dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "editstyle": "none",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segLoanTypesKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "editStyle": "none",
+            "enableDictionary": true,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e6c49bae4cd3453882f93bfa5c5c55a6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_f079d25dc04f4caa9cd099b8a17d656b",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxLoanTypesContainerKA",
+    "pf": "frmDashboardNewKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b2132e460b514dd8bc6e7dc2d6fec647",
+    "rowcounter": 3,
+    "rowfocusskin": "s46a161c3d5a427ab48a4b3163ace31e",
+    "rowskin": "s46a161c3d5a427ab48a4b3163ace31e",
+    "rowtemplate": "CopyflxMainHeaderKA",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1125,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxMainHeaderKA": "CopyflxMainHeaderKA",
+        "flxRowContentKA": "flxRowContentKA",
+        "imgLoanType2KA": "imgLoanType2KA",
+        "imgLoanTypeIconKA": "imgLoanTypeIconKA",
+        "lblFullNameKA": "lblFullNameKA",
+        "lblLoanTypeKA": "lblLoanTypeKA"
+    },
+    "zindex": 1
+}

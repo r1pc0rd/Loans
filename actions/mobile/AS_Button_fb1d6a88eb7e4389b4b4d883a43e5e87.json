@@ -1,0 +1,31 @@
+{
+    "AS_Button_fb1d6a88eb7e4389b4b4d883a43e5e87": {
+        "id": "AS_Button_fb1d6a88eb7e4389b4b4d883a43e5e87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "fb6a34dfe0c445ba9c7d0ef2407fe04e",
+            "name": "tmpMyApplicationsKA",
+            "platform": "",
+            "type": "templates"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e40a8fdcf4a5418b9674215a9ee0ebfb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resumeApplication",
+            "display": "resumeApplication",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

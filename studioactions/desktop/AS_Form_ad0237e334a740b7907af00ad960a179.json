@@ -1,0 +1,36 @@
+{
+    "AS_Form_ad0237e334a740b7907af00ad960a179": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "onBreakpointChange",
+                "id": "INVOKE_FUNCTION___fd42835df6514ac0b8cbf69d6c13f26d",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "onBreakpointChange",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Form_ad0237e334a740b7907af00ad960a179",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "number",
+                "name": "breakpoint"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

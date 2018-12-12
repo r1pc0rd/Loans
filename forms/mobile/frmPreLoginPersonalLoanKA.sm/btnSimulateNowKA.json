@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf2a90a998104c03a1184a05b3c3aca3",
+    "_text_": "Simulate Now",
+    "_top_": {
+        "type": "string",
+        "value": "82dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85.30%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sb7018e138a84968b0467bbd9225671e",
+    "id": "btnSimulateNowKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f592a5c4fe9c4b11b509efcb4f6baadb",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e3da07727f45491895b3897d4f485d4a",
+    "parent": "flxLoanSimulatorKA",
+    "pf": "frmPreLoginPersonalLoanKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

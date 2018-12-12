@@ -1,0 +1,24 @@
+{
+    "AS_BarButtonItem_a7280414bc474b878812a213e62e8aaa": {
+        "id": "AS_BarButtonItem_a7280414bc474b878812a213e62e8aaa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ca4c1dea8b67425795470031a78e6958",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboardNewKA",
+            "friendlyName": "frmDashboardNewKA",
+            "formKUID": "j8af9768e4c54ebfa2affc781048f858",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

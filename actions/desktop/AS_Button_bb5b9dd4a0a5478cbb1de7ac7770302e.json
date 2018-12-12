@@ -1,0 +1,21 @@
+{
+    "AS_Button_bb5b9dd4a0a5478cbb1de7ac7770302e": {
+        "id": "AS_Button_bb5b9dd4a0a5478cbb1de7ac7770302e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_bb92f3d5ac164e8c8ca8b8a9849f03af",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveAndContinueLater",
+            "display": "saveAndContinueLater",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

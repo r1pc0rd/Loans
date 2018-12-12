@@ -1,0 +1,130 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "s7d5fe99847647298e4769879770816f",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "desktopweb": {
+        "onBeginEditing": "AS_TextField_jd22efb3ee4a415cb7aee43592adfe34",
+        "onEndEditing": "AS_TextField_jfde382eb22d42beba1929dfcc979fed"
+    },
+    "disabledSkins": {
+        "focusSkin": "sae316e8c3cf4c129fdfe7c95cccf9c9"
+    },
+    "id": "tbx2SelfEmployedQuestion4KA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "a7eab19b395c49e2868c136e4f131958",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxtbx2SelfEmployedQuestion4KA",
+    "pf": "frmConsentKA",
+    "placeholderskin": "s57f8e33f41d4af884d86462b0684fac",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "103%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "number",
+                "value": "-2"
+            },
+            "text": "",
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b3": {
+            "right": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "-2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": ""
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 2
+}

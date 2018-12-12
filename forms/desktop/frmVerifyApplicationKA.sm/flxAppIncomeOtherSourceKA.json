@@ -1,0 +1,82 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxAppIncomeOtherSourceLeftKA",
+        "flxAppIncomeOtherSourceRightKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxAppIncomeOtherSourceKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i379462833f44367b573abde615321e1",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxAppIncomeOtherSourceTitleKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "37dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "11dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "33dp"
+            },
+            "layoutType": 2,
+            "top": {
+                "type": "string",
+                "value": "11dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_ec0351d71ced4f14b75977f0ff335052": {
+        "id": "AS_FlexContainer_ec0351d71ced4f14b75977f0ff335052",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e1fce870c5f24c5e888295c185915d41",
+            "name": "frmPreLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hfaeb2f86ae44143bb08f0737587d4a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.changeEyeIconAndShowPassText();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

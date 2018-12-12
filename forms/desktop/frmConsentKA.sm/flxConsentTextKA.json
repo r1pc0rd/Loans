@@ -1,0 +1,120 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "1760dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "809dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblAgreeAllTermsKA",
+        "lblCreditReportKA",
+        "lblYouAuthorizeKA",
+        "lblFirstStatementYouKA",
+        "lblSecondStatementYouKA",
+        "lblThirdStatementYouKA",
+        "lblFourthStatementYouKA",
+        "lblTermsAndConditionsKA",
+        "lblByGivingKA",
+        "lblFirtsStateByGivingKA",
+        "lblSecondStateByGivingKA",
+        "lblThirdStateByGivingKA",
+        "lblFourthStateByGivingKA",
+        "lblFifthStateByGivingKA",
+        "lblSixthStateByGivingKA",
+        "lblAndYouAgreeKA",
+        "lblFirstStateAndYouAgreeKA",
+        "lblPrivacyKA",
+        "lblAllFinancialKA",
+        "lblElectronicConsumerKA",
+        "lblToReceiveKA",
+        "Label0d19bb4c6690f45",
+        "flxThreeTypesKA",
+        "flxIAgreeAllTermsKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxConsentTextKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aee8d09d4adb4f5fbac6f4b5cf586adb",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxBodyKA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "1370dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "1290dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "1380dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "1380dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

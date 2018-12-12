@@ -1,0 +1,236 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "InformMessageCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d2f135a596ab4fbaad77cfb0b2833f54",
+                "srcKUID": "ud642a4771a24b9481072409e0818fc9",
+                "wType": "FlexContainer"
+            },
+            "left": {},
+            "responsiveData": {
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "0dp"
+                    }
+                }
+            },
+            "top": {}
+        },
+        "flxContainerMainKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "haa00a55c903432faaceee6ae3951e9b",
+                "srcKUID": "ue4261ae58f14758a0dcb0d89118368a",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b4": {
+                    "layoutType": 4
+                }
+            }
+        },
+        "imgStatusKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gce566315ca249578769d47267f9fa00",
+                "srcKUID": "u369f1a527f94e5e9bbe961fe693271e",
+                "wType": "Image"
+            },
+            "centerX": {},
+            "centerY": {},
+            "height": {},
+            "left": {},
+            "responsiveData": {
+                "b3": {
+                    "height": {
+                        "type": "string",
+                        "value": "40dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "40dp"
+                    }
+                },
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "centerY": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "20dp"
+                    }
+                }
+            },
+            "src": "success_green_1.png",
+            "top": {},
+            "width": {}
+        },
+        "lblInformMessageKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e1f74b70a27a4fb897ea6cfe1fa0419f",
+                "srcKUID": "uab0724ecc5244a0acc4a4b123fe0468",
+                "wType": "Label"
+            },
+            "centerX": {},
+            "centerY": {},
+            "left": {},
+            "responsiveData": {
+                "b1": {
+                    "text": "Co-Applicant has been Invited successfully"
+                },
+                "b2": {
+                    "text": "Co-Applicant has been Invited and added successfully",
+                    "width": {
+                        "type": "string",
+                        "value": "60%"
+                    }
+                },
+                "b3": {
+                    "text": "Co-Applicant has been Invited successfully"
+                },
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "centerY": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "text": "Co-Applicant has been Invited successfully",
+                    "top": {
+                        "type": "string",
+                        "value": "25dp"
+                    }
+                }
+            },
+            "text": "Your Application has been submitted successfully.",
+            "top": {},
+            "width": {}
+        }
+    },
+    "enablescrolling": true,
+    "id": "InformMessage",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d2f135a596ab4fbaad77cfb0b2833f54",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSuccessMessage",
+    "pf": "frmPersonalLoanInfoKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ud642a4771a24b9481072409e0818fc9",
+    "wType": "UserWidgetInstance"
+}

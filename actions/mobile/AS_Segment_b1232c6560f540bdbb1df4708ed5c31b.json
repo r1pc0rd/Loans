@@ -1,0 +1,36 @@
+{
+    "AS_Segment_b1232c6560f540bdbb1df4708ed5c31b": {
+        "id": "AS_Segment_b1232c6560f540bdbb1df4708ed5c31b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPreLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e1fce870c5f24c5e888295c185915d41"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ca362c9e5c584a1680e86412a19b9563",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPreLoginPersonalLoanKA",
+            "friendlyName": "frmPreLoginPersonalLoanKA",
+            "formKUID": "ef0a96aaf45046e98792c06586d1913a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

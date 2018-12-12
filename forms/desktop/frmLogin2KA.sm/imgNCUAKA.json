@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "45%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmLogin2KA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgNCUAKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gca2850e760c4215af933d7e3663d94d",
+    "name": "kony.ui.Image2",
+    "parent": "flxFooterKA",
+    "pf": "frmLogin2KA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "55%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "src": "ncua_1.png",
+            "width": {
+                "type": "string",
+                "value": "86dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "55%"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "src": "ncua_1.png",
+            "width": {
+                "type": "string",
+                "value": "86dp"
+            }
+        },
+        "b3": {
+            "right": {
+                "type": "number",
+                "value": "10"
+            },
+            "src": "ncua_1.png"
+        },
+        "b4": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

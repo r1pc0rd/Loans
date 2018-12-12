@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3935429e3734d69a8fd3a72d362fc3d",
+    "_text_": "Note: By removing co-applicant you will lose all data related<br> to co-applicant.",
+    "_top_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "380dp"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxRemovePopupKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e398977a668241beade7b616bedb79f3",
+    "linkskin": "s48ee14742f442a7bd1808d6fd42f97a",
+    "name": "kony.ui.RichText",
+    "parent": "flxPopupBodyKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {},
+        "b3": {
+            "skin": "s3935429e3734d69a8fd3a72d362fc3d"
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "skin": "s40315309dbd458fb738fef5225c94fb",
+            "text": "Note: By removing co-applicant you will lose all data related to co-applicant.",
+            "top": {
+                "type": "string",
+                "value": "57dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "266dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

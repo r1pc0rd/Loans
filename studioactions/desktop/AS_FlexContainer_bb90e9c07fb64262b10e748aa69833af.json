@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_bb90e9c07fb64262b10e748aa69833af": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "showMobileLoginForm",
+                "id": "INVOKE_FUNCTION___bc5cf4dc058f45068779cdbdb863a02e",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "showMobileLoginForm",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_FlexContainer_bb90e9c07fb64262b10e748aa69833af",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

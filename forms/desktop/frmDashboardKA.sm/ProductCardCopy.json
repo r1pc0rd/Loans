@@ -1,0 +1,132 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxTabKA"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "ProductCardCopy",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cacb9cc16a97409586e157e60c926e29",
+    "layouttype": 2,
+    "maxwidth": {
+        "type": "string",
+        "value": ""
+    },
+    "name": "kony.ui.FlexContainer",
+    "ontouchstart": "AS_UWI_bce31cbd6fc74c598090f60b0545714e",
+    "parent": "flxFirstLineProductCardKA",
+    "pf": "frmDashboardKA",
+    "responsiveData": {
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "290dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "50dp"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "290dp"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "256dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "maxWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "250dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

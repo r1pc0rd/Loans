@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_ade8e30c0c11499f8f6a7e4aaba354c0": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "toggleShowHidePassword",
+                "id": "INVOKE_FUNCTION___e30b33d7d169414ab9cea1f48df4b0c9",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "toggleShowHidePassword",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "j0329c6c64654440bf366abc8de81b74",
+            "name": "CopyFrmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_FlexContainer_ade8e30c0c11499f8f6a7e4aaba354c0",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

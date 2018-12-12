@@ -1,0 +1,21 @@
+{
+    "AS_Button_ha6e753ca0b342e1876ccc2aa17ecd5a": {
+        "id": "AS_Button_ha6e753ca0b342e1876ccc2aa17ecd5a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_h0fb1f917d024293b502dc98f46c23b7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadATMList",
+            "display": "loadATMList",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

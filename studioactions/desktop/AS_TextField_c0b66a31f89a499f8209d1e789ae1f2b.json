@@ -1,0 +1,34 @@
+{
+    "AS_TextField_c0b66a31f89a499f8209d1e789ae1f2b": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "onEndEdiditngDateTocalendarWidget",
+                "id": "INVOKE_FUNCTION__ide_onEndEditing_d268999370cd43269f287d65f5b3e120",
+                "inputparams": [
+                    {
+                        "name": "widget",
+                        "value": " eventobject"
+                    }
+                ],
+                "sequenceKUID": "onEndEdiditngDateTocalendarWidget",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "id": "AS_TextField_c0b66a31f89a499f8209d1e789ae1f2b",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

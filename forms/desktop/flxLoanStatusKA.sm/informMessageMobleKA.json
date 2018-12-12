@@ -1,0 +1,199 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {},
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "InformMessage": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ad646f4996a74ef8a0fb73e47a4ef847",
+                "srcKUID": "bea62a6d2faa43a0b8a84a0fef6392e0",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxContainerMainKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f93d9913dd7f4605a6c1be5f31b56bc2",
+                "srcKUID": "b12eba3ae3e24eddbf376b19e3a70740",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b3": {
+                    "isVisible": true
+                }
+            }
+        },
+        "imgStatusKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "he90a66a51b74725990369b808b114ca",
+                "srcKUID": "d47166f29514450d8961dc020e9c2d59",
+                "wType": "Image"
+            },
+            "centerX": {},
+            "centerY": {},
+            "left": {},
+            "responsiveData": {
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "centerY": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "10px"
+                    }
+                }
+            },
+            "top": {}
+        },
+        "lblInformMessageKA": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ae0f0d1fd3814a04aef5c381dea8beaf",
+                "srcKUID": "f929a7de356641e0b33ece882a27c550",
+                "wType": "Label"
+            },
+            "centerX": {},
+            "centerY": {},
+            "left": {},
+            "responsiveData": {
+                "b3": {
+                    "text": "Congratulations! You have succesfully created below accounts.",
+                    "width": {
+                        "type": "string",
+                        "value": "500px"
+                    }
+                },
+                "b4": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "centerY": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "isVisible": false,
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "70px"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "80%"
+                    }
+                }
+            },
+            "text": "Your application for below account opening has been submitted successfully.",
+            "top": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "620px"
+                }
+            }
+        }
+    },
+    "id": "informMessageMobleKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ad646f4996a74ef8a0fb73e47a4ef847",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMobileInformAlertKA",
+    "pf": "flxLoanStatusKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "bea62a6d2faa43a0b8a84a0fef6392e0",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_c846e27225334c5594cedd3674203463": {
+        "id": "AS_Button_c846e27225334c5594cedd3674203463",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "c4ae9f34f88844dd9f192f065c018291",
+            "name": "frmLoansDashboardKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g2d5544aec444910aa6406ffc46d438a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.showLoadingScreen(null,\"\", constants.LOADING_SCREEN_POSITION_ONLY_CENTER, true, true, null);\nvar LoansModule = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule(\"LoansModule\");\nLoansModule.presentationController.startApplication(\"PERSONAL_APPLICATION\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

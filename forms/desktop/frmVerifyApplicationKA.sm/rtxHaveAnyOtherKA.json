@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf3caccce3bd4672af772172a6dd83e3",
+    "_text_": "Do you have any other<br>sources of income?\n",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxHaveAnyOtherKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b3c8ac47954d412cbb75a77ce03ece68",
+    "linkskin": "s48ee14742f442a7bd1808d6fd42f97a",
+    "name": "kony.ui.RichText",
+    "parent": "flxAppIncomeOtherSourceLeftKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s1d53a9261164aa3b5f82728bfec7745"
+        },
+        "b2": {
+            "skin": "sf3caccce3bd4672af772172a6dd83e3"
+        },
+        "b3": {
+            "skin": "sa0876358f4e449b943b79b78a1e97ce",
+            "text": "Do you have any other sources of income?\n"
+        },
+        "b4": {
+            "skin": "s1d53a9261164aa3b5f82728bfec7745"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

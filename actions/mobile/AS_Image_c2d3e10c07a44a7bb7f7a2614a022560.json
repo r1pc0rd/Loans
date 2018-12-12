@@ -1,0 +1,30 @@
+{
+    "AS_Image_c2d3e10c07a44a7bb7f7a2614a022560": {
+        "id": "AS_Image_c2d3e10c07a44a7bb7f7a2614a022560",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "j8af9768e4c54ebfa2affc781048f858",
+            "name": "frmDashboardNewKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cc43b07bbb8a4f76883b1fe001720b51",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var nav = applicationManager.getNavigationManager();\nnav.navigateTo(\"frmPreLoginKA\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

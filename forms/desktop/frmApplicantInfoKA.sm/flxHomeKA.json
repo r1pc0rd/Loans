@@ -1,0 +1,98 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "19px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "230dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "135px"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.98%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "68.82%"
+    },
+    "children": [
+        "flxHomeBracket1KA",
+        "flxHome1KA",
+        "flxHome2KA",
+        "flxHome3KA",
+        "flxHomeBracket2KA",
+        "flxHome4KA",
+        "flxHome5KA",
+        "flxHome6KA",
+        "flxHomeLineKA",
+        "flxHome7KA",
+        "flxHome8KA",
+        "flxHome9KA",
+        "flxHome10KA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxHomeKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j14e9394fb8c42cf8ed12cffc9d5b761",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxOptHomePhoneKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "48dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "309dp"
+            }
+        },
+        "b3": {
+            "top": {
+                "type": "string",
+                "value": "190dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 10
+}

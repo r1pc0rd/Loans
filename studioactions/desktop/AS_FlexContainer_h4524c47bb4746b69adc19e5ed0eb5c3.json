@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_h4524c47bb4746b69adc19e5ed0eb5c3": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "toggleApplicantStatusMenuVisibility",
+                "id": "INVOKE_FUNCTION___a595d83a602d4ea185930bea25c00943",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "toggleApplicantStatusMenuVisibility",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_FlexContainer_h4524c47bb4746b69adc19e5ed0eb5c3",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

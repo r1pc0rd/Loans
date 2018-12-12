@@ -1,0 +1,112 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_skin_": "s50166e5d9ef4194a0c1ee2bc0a089a6",
+    "_src_": "coop_5.png",
+    "_top_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "55%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmVerifyApplicationKA",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgCoOpKA",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f65f10ea90f746238976374120e2b731",
+    "name": "kony.ui.Image2",
+    "parent": "flxFooterKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": "70%"
+            },
+            "height": {
+                "type": "string",
+                "value": "28dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "55dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "35dp"
+            }
+        },
+        "b2": {
+            "centerY": {
+                "type": "string",
+                "value": "70%"
+            },
+            "height": {
+                "type": "string",
+                "value": "28dp"
+            },
+            "right": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "35dp"
+            }
+        },
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "right": {
+                "type": "string",
+                "value": "180dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

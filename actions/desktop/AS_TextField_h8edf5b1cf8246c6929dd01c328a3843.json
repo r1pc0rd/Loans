@@ -1,0 +1,15 @@
+{
+    "AS_TextField_h8edf5b1cf8246c6929dd01c328a3843": {
+        "id": "AS_TextField_h8edf5b1cf8246c6929dd01c328a3843",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

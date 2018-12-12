@@ -1,0 +1,32 @@
+{
+    "AS_Button_ca1d908affcc4bb7875311669f52f77f": {
+        "actions": [
+            {
+                "callbackType": null,
+                "disabled": null,
+                "display": "validatePhoneNumber",
+                "id": "INVOKE_FUNCTION___g6588700d228407390f36b88d1a1613c",
+                "inputparams": [],
+                "parentId": null,
+                "sequenceKUID": "validatePhoneNumber",
+                "source": "controller",
+                "type": "INVOKE_FUNCTION"
+            }
+        ],
+        "contextObj": {
+            "KUID": "feddaf1c8a2341e5952717e1f97dea6a",
+            "name": "frmApplicantInfoKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "id": "AS_Button_ca1d908affcc4bb7875311669f52f77f",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

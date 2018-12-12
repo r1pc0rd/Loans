@@ -1,0 +1,171 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "259dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "sb931b990ab447a99da1942a950f567c",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "193dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb931b990ab447a99da1942a950f567c",
+    "id": "btnContinueNow",
+    "ide_onClick": "AS_Button_ie41a4a3b0b44a36aff948ab2a3d55ba",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j6d0fad6d4dd4a09b7c7faad56cd5744",
+    "name": "kony.ui.Button",
+    "parent": "flxCloseMainKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b1": {
+            "bottom": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "31dp"
+            },
+            "text": "Save & Continue Now",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "209dp"
+            }
+        },
+        "b2": {
+            "bottom": {
+                "type": "string",
+                "value": "27dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "36dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "27dp"
+            },
+            "text": "Save & Continue Now",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "188dp"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": "9%"
+            },
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "text": "Save & Continue Now",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "86%"
+            }
+        },
+        "b4": {
+            "bottom": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "height": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "33dp"
+            },
+            "text": "Save & Continue Now",
+            "top": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "209dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

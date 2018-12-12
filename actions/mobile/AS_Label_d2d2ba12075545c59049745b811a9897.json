@@ -1,0 +1,30 @@
+{
+    "AS_Label_d2d2ba12075545c59049745b811a9897": {
+        "id": "AS_Label_d2d2ba12075545c59049745b811a9897",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "bf5a0f109161412b8f26689b9de1ae1c",
+            "name": "frmLoginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c81f3f2e62dd4c5fac7157cadc0b3d0b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onCancelTouchId();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

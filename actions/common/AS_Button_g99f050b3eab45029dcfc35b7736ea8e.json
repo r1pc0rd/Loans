@@ -1,0 +1,21 @@
+{
+    "AS_Button_g99f050b3eab45029dcfc35b7736ea8e": {
+        "id": "AS_Button_g99f050b3eab45029dcfc35b7736ea8e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__onClick_d0e6e4bc9d1c4c35bdf71f65fd5ea095",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadPersonalATMList",
+            "display": "loadPersonalATMList",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

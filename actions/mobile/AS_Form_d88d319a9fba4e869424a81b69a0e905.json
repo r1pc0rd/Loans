@@ -1,0 +1,24 @@
+{
+    "AS_Form_d88d319a9fba4e869424a81b69a0e905": {
+        "id": "AS_Form_d88d319a9fba4e869424a81b69a0e905",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "b345ae270bbf4abbb4cce4a1a1fa5e48",
+            "name": "frmMyApplicationsKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cb49aa1f556b49ba8d95761a2e9e06a5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onPreShow();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

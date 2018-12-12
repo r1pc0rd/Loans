@@ -1,0 +1,376 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_responsiveData_": {},
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ApplicationStatusRoadMapCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d8ef3d167ce647f89e0879a425aa20a0",
+                "srcKUID": "u79c38401c7848b8a236ec92699ab771",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppDateContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1fa475b94784082aed2ab4c3ad3989d",
+                "srcKUID": "u1223e73acee43b99173c9b666e03b7d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppDetails": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g2e9206c9a7246c3a9a1c29a82a922e5",
+                "srcKUID": "uf04801cc44e4307b1c8b018455b87e1",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppIdContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jf4002dddaff40a7bd33619548525ed2",
+                "srcKUID": "u9b5881472ca4c1882424f2d3f9860d8",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxCreditCardContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dbaf3d8d0227419e91b7fd7befed4e60",
+                "srcKUID": "u03a2c32524a478886cbbd161182f824",
+                "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "responsiveData": {},
+            "vizProps": {
+                "hide": false
+            }
+        },
+        "flxCreditCardDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eee4a7cf362d4017824b498c1ae73989",
+                "srcKUID": "u137507b72264434a50309392556fcd4",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxDetailsContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e2b35324a6b04f41be5f1dffe1071184",
+                "srcKUID": "u0af5240e3f54ddc843dcc63536b5e9d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxProgress": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "if4c2b517413401b8d79df9d3b26106c",
+                "srcKUID": "u2dbb0939cbd4741909bf9cbc487ba8c",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "centerX": {},
+            "height": {},
+            "left": {},
+            "responsiveData": {
+                "b1": {
+                    "centerX": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "height": {
+                        "type": "string",
+                        "value": "12dp"
+                    },
+                    "left": {
+                        "type": "string",
+                        "value": "19dp"
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "19dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "95%"
+                    }
+                }
+            },
+            "right": {},
+            "width": {}
+        },
+        "flxProgressBackgroundLanding": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i90debb0c43b45a9ae2a0f31f40d587d",
+                "srcKUID": "u1455b73fb4e4f818a72002fe875fddb",
+                "wType": "FlexContainer"
+            },
+            "clipBounds": true
+        },
+        "flxProgressValueLanding": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i4580a4c757c45069c76c813e2c4e8a2",
+                "srcKUID": "u06fb01f2fcf43d0900a316ce35dcc05",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxRoadMap": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g13933c3ff95418cae00ec7ed20e239a",
+                "srcKUID": "ub798b36f9b1454b9075540319c18251",
+                "wType": "FlexContainer"
+            },
+            "clipBounds": false
+        },
+        "flxTypeContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d4fe74f1f77b4c1a842e2a03daacb48a",
+                "srcKUID": "uf7b322e953a4b378b356293f4c079eb",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgCreditCard": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a58e8ec6ba3e4a22bfef9f3ab4c81b56",
+                "srcKUID": "u202e41139df4008811cd15657f10798",
+                "wType": "Image"
+            },
+            "src": "imagedrag.png"
+        },
+        "lblAppDate": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "idb1223eda9247f5b0a57356c34846c7",
+                "srcKUID": "u7552852a2964fb98feb624650cf92ee",
+                "wType": "Label"
+            }
+        },
+        "lblAppDateValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c975978058d64bf6b0f15730ad2d0870",
+                "srcKUID": "u6c8db2e17714852aed02df697700fbc",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "12/15/2018"
+        },
+        "lblAppDetailsTitle": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fb1b05a9a57c4e0888fe43b1b37d3057",
+                "srcKUID": "uf130f444a4242b6890d707a5d8b0714",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b2": {
+                    "width": {
+                        "type": "string",
+                        "value": "160dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "lblAppId": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aeb06cef3a9b4c85a0dda903b90e9e1b",
+                "srcKUID": "u6bff6358b094cb99f90ef0308f80761",
+                "wType": "Label"
+            }
+        },
+        "lblAppIdValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ca7129e89e2744479b6c62b59ff73140",
+                "srcKUID": "u336ab6c59a049cd920cf408f43532e7",
+                "wType": "Label"
+            }
+        },
+        "lblAppType": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4e4aa56631645f88d107ff897d8ddec",
+                "srcKUID": "u5742eb5767247cfacc8938b4ed113fd",
+                "wType": "Label"
+            }
+        },
+        "lblCash": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a9adbb78aa404a438c8d2a854bbd2913",
+                "srcKUID": "ue93b17a3a2d4c3eb8f23e3a1075f907",
+                "wType": "Label"
+            }
+        },
+        "lblTypeValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h74bcf32b2d6458481ee206492b2c0c4",
+                "srcKUID": "u1e1f0e7008b4b298c363414ca204ac9",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Personal Loan Application"
+        },
+        "rtxCardDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i8d1ca8421244ac1bffaf6842d80b4bf",
+                "srcKUID": "u0d57ba730b24272b0f44105ba6145a7",
+                "wType": "RichText"
+            }
+        },
+        "segAppSections": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d749f5359067483fb67cb979b544bcf2",
+                "srcKUID": "u0ef4b638cf74ce595d7e7cae9c8477b",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    [
+                        {
+                            "imgCCAppTick": {
+                                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                "src": "greentickmark_1.png"
+                            },
+                            "lblCCAppHeaderName": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "Your Loan"
+                            },
+                            "lblCCAppHeaderNumber": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "1"
+                            },
+                            "lblCCAppHeaderStatus": {
+                                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                "text": "In Progress"
+                            }
+                        },
+                        [
+                            {
+                                "imgCCAppRowBottomDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_1.png"
+                                },
+                                "imgCCAppRowDottedLine": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "dottedlinecut_1.png"
+                                },
+                                "imgCCAppRowTick": {
+                                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                                    "src": "greentickmark_1.png"
+                                },
+                                "lblCCAppRowName": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "Info"
+                                },
+                                "lblCCAppRowNumber": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "2"
+                                },
+                                "lblCCAppRowStatus": {
+                                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                                    "text": "In Progress"
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        }
+    },
+    "id": "ApplicationStatusRoadMapKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d8ef3d167ce647f89e0879a425aa20a0",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxAppDetailsKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "u79c38401c7848b8a236ec92699ab771",
+    "wType": "UserWidgetInstance"
+}

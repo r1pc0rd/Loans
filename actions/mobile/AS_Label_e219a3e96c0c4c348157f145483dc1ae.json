@@ -1,0 +1,33 @@
+{
+    "AS_Label_e219a3e96c0c4c348157f145483dc1ae": {
+        "id": "AS_Label_e219a3e96c0c4c348157f145483dc1ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "bcd45d0c4b374014bb145cdb4cfa8cc4",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d8b7471e9f814c31864ef463d71e69af",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "alertForCancellingSimulation",
+            "display": "alertForCancellingSimulation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

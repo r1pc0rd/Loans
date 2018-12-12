@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s69f507ad2f3493b99618de2d160e3b4",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxMenuContainerKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMenukA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fb5210fa68f74b9bb4da5888ab8355cb",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMainKA",
+    "pf": "frmLogin2KA",
+    "responsiveData": {
+        "b1": {
+            "layoutType": 2,
+            "top": {
+                "type": "string",
+                "value": "70dp"
+            }
+        },
+        "b2": {
+            "layoutType": 2,
+            "top": {
+                "type": "string",
+                "value": "70dp"
+            }
+        },
+        "b3": {
+            "layoutType": 2,
+            "top": {
+                "type": "string",
+                "value": "70dp"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "isVisible": true,
+            "layoutType": 2,
+            "skin": "s69f507ad2f3493b99618de2d160e3b4",
+            "zIndex": 2
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

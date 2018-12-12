@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s76c1b56e26945bd9fadebcec9c03df6",
+    "_text_": "Map",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s5de7479b8fc41c7b7ac16645e143ed0"
+    },
+    "displaytext": true,
+    "id": "btnMapKA",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "d7f8f994a8a546bfb2b92b69234cffc2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_fde5285dc23149a2b37c5c75ef388460",
+    "paddinginpixel": false,
+    "parent": "MapListControllerWrapper",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

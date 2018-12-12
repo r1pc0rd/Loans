@@ -1,0 +1,197 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgSuggestionLocateKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "locate.png"
+            },
+            "lblAddressSuggestionKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblPlaceIDKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "-10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segPrevAddressSuggestionKA",
+    "ide_onRowClick": "AS_Segment_jca6303181f948f9904f5c33663bb584",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "f57c5aec67a44f048384c2878ec159bc",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxPrevAddressContentKA",
+    "pf": "frmApplicantInfoKA",
+    "responsiveData": {
+        "b4": {
+            "isVisible": false,
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "e04bfb770b3840b6a9e9f7515c443d10",
+    "rowcounter": 5,
+    "rowfocusskin": "s06af371740f4726a20d784e45e5eff8",
+    "rowskin": "sce83eec4f114a7184925d07bfc67e72",
+    "rowtemplate": "flxMainAddressSuggestions",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sae16d75f38f46e29dff30a6e37c2dc6",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMainAddressSuggestions": "flxMainAddressSuggestions",
+        "flxSuggestionLocateKA": "flxSuggestionLocateKA",
+        "flxSuggestionSeparator1KA": "flxSuggestionSeparator1KA",
+        "imgSuggestionLocateKA": "imgSuggestionLocateKA",
+        "lblAddressSuggestionKA": "lblAddressSuggestionKA",
+        "lblPlaceIDKA": "lblPlaceIDKA"
+    },
+    "zindex": 1
+}

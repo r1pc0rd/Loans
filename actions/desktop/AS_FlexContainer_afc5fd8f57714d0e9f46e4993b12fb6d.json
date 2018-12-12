@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_afc5fd8f57714d0e9f46e4993b12fb6d": {
+        "id": "AS_FlexContainer_afc5fd8f57714d0e9f46e4993b12fb6d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "fceda6e39be9441c9e93b8cff84aa4e5",
+            "name": "frmLogin2KA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f9809846aaa44df78afe5c0c5e715b6f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPersonalLoanPreloginKA",
+            "friendlyName": "frmPersonalLoanPreloginKA",
+            "formKUID": "eb79f82616b242b886e207930f8706da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

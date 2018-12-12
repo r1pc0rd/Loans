@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s7a0b6551154459589e8d31ce6ec7c97",
+    "_text_": "Employment Info",
+    "_width_": {
+        "type": "number",
+        "value": ""
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblSelfEmployedHeader1KA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c0fbb88725c345e88db8e29c8b3c8a96",
+    "name": "kony.ui.Label",
+    "parent": "flxSelfEmployedHeader1KA",
+    "pf": "frmConsentKA",
+    "responsiveData": {
+        "b1": {},
+        "b2": {
+            "skin": "s06e90d48bb14a2bae091c40a64673d5"
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "84%"
+            }
+        },
+        "b4": {
+            "skin": "s06e90d48bb14a2bae091c40a64673d5"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

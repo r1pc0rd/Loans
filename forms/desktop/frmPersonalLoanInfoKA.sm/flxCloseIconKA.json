@@ -1,0 +1,140 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "87dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "sf0921af281f44d2851809e0db027d9c",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "imgCloseIconKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCloseIconKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e59151a7cb964214b78232ab4b084721",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_f481dffdfe754dd685f2cf05088b3d9e",
+    "parent": "flxCloseMainKA",
+    "pf": "frmPersonalLoanInfoKA",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "42dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "442dp"
+            },
+            "skin": "sf0921af281f44d2851809e0db027d9c",
+            "width": {
+                "type": "string",
+                "value": "10.80%"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "42dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "391dp"
+            },
+            "skin": "sf0921af281f44d2851809e0db027d9c",
+            "width": {
+                "type": "string",
+                "value": "10.80%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "number",
+                "value": "18"
+            },
+            "top": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "20dp"
+            }
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "34dp"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "12dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "6%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

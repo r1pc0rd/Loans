@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf3caccce3bd4672af772172a6dd83e3",
+    "_text_": "Monthly total mortgage<br>payment\n",
+    "_top_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxTotalMortgageKA",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cbb97c16a5024430ba8d42a9b2026948",
+    "linkskin": "s48ee14742f442a7bd1808d6fd42f97a",
+    "name": "kony.ui.RichText",
+    "parent": "flxDontHaveOtherSourcesLeftKA",
+    "pf": "frmVerifyApplicationKA",
+    "responsiveData": {
+        "b1": {
+            "skin": "s1d53a9261164aa3b5f82728bfec7745"
+        },
+        "b2": {
+            "skin": "sf3caccce3bd4672af772172a6dd83e3",
+            "top": {
+                "type": "string",
+                "value": "30dp"
+            }
+        },
+        "b3": {
+            "skin": "sa0876358f4e449b943b79b78a1e97ce",
+            "text": "Monthly total mortgage payment\n",
+            "top": {
+                "type": "string",
+                "value": "25dp"
+            }
+        },
+        "b4": {
+            "skin": "s1d53a9261164aa3b5f82728bfec7745"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5
+}

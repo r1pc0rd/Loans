@@ -1,0 +1,21 @@
+{
+    "AS_TextField_c722972c456d4c619b8e03897c051b9e": {
+        "actions": [
+            {
+                "callbackType": null,
+                "codeSnippet": "if(this.view.txtTwoSSNKA.text.length == 1){\n  this.view.txtThreeSSNKA.setFocus(true);\n}",
+                "id": "ADD_SNIPPET_ide_onKeyUp_e7d59f429ac442d5b4685f745b6d8863",
+                "type": "ADD_SNIPPET"
+            }
+        ],
+        "id": "AS_TextField_c722972c456d4c619b8e03897c051b9e",
+        "language": "js",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            }
+        ],
+        "type": "ACTION_SEQUENCE"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_dd8e9bf67abd4e77915f8789c01e7260": {
+        "id": "AS_Form_dd8e9bf67abd4e77915f8789c01e7260",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "eb79f82616b242b886e207930f8706da",
+            "name": "frmPersonalLoanPreloginKA",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ebda37096c2246c0b887bb9a184fca28",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onPreShow",
+            "display": "onPreShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
