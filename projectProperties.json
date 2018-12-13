@@ -6,7 +6,7 @@
     "defaultlocalekey": "en_US",
     "apppackagekey": "",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": true,
         "isEnableJSContainerAndroid": true,
         "isEnableJSContaineriOS": true
