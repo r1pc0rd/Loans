@@ -6,10 +6,10 @@
     "defaultlocalekey": "en_US",
     "apppackagekey": "",
     "nativeContainerProperties": {
-        "isModified": false,
-        "isEnableJSContainer": true,
         "isEnableJSContainerAndroid": true,
-        "isEnableJSContaineriOS": true
+        "isModified": false,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
     },
     "wap_android400_fontsize": "14",
     "wap_spaandroidtabhdpi_fontsize": "16",
@@ -226,9 +226,9 @@
     "enablexfsspa": false,
     "kfAppInfo": {
         "aafb8ef7-f5bb-406d-a4f3-a1b3b79d9109": {
+            "appName": "Loans",
             "id": "94c8ca40-6718-45cf-80ac-e32f68d69c2c",
             "baseId": "94c8ca40-6718-45cf-80ac-e32f68d69c2c",
-            "appName": "Loans",
             "version": "1.0"
         }
     }
