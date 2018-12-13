@@ -52,6 +52,12 @@ define({
         var self = this;
         this.onClickofTouchID();
     },
+    /** onclick defined for flxBottomContKA **/
+    AS_FlexContainer_g3d37987595b47c2bcb2dc67b2886876: function AS_FlexContainer_g3d37987595b47c2bcb2dc67b2886876(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmPreLoginKA");
+        ntf.navigate();
+    },
     /** ontouchstart defined for lblCancelKA **/
     AS_Label_hf8c6be5058a450b81076e4d2c030cc4: function AS_Label_hf8c6be5058a450b81076e4d2c030cc4(eventobject, x, y) {
         var self = this;
@@ -86,32 +92,5 @@ define({
     AS_FlexContainer_f02cf0791e654eff9ca34f67f7209f8f: function AS_FlexContainer_f02cf0791e654eff9ca34f67f7209f8f(eventobject) {
         var self = this;
         this.doNothing();
-    },
-    /** preshow defined for frmLoginKA **/
-    AS_Form_c1da02a1f7af4fd48e261b0c54c62289: function AS_Form_c1da02a1f7af4fd48e261b0c54c62289(eventobject) {
-        var self = this;
-        this.preshowLogin();
-    },
-    /** postshow defined for frmLoginKA **/
-    AS_Form_f21ed0e90fa2452a8f50260c5685b217: function AS_Form_f21ed0e90fa2452a8f50260c5685b217(eventobject) {
-        var self = this;
-        try {
-            if (kony.dbp.loans.testDataProvider.runTestCases) {
-                require("JasminTests/AuthenticationModule/LoginTest")(jasmine.getEnv());
-                require("JasminTests/LandingModule/LoanTypesTests")(jasmine.getEnv());
-                require("JasminTests/Loans/SimulationTest")(jasmine.getEnv());
-                require("JasminTests/Loans/ApplicationTests")(jasmine.getEnv());
-                require("JasminTests/AuthenticationModule/LoginPin")(jasmine.getEnv());
-                jasmine.getEnv().execute();
-            }
-        } catch (err) {
-            alert(JSON.stringify(err));
-        }
-    },
-    /** onClick defined for flxBottomContKA **/
-    AS_FlexContainer_g3d37987595b47c2bcb2dc67b2886876: function AS_FlexContainer_g3d37987595b47c2bcb2dc67b2886876(eventobject) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmPreLoginKA");
-        ntf.navigate();
     }
 });

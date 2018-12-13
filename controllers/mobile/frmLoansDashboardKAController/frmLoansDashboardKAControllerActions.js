@@ -34,10 +34,5 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("frmDashboardNewKA");
         ntf.navigate();
-    },
-    /** preshow defined for frmLoansDashboardKA **/
-    AS_Form_d6ffadecf15a42969917af277635a7dc: function AS_Form_d6ffadecf15a42969917af277635a7dc(eventobject) {
-        var self = this;
-        this.preShow();
     }
 });

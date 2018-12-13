@@ -21,17 +21,7 @@
                     "enable": true
                 }
             },
-            "11.4": {
-                "KonyAcuant-iOS-11.4": {
-                    "title": "KonyAcuant",
-                    "platform": "iOS",
-                    "os": "11.4",
-                    "isDefault": false,
-                    "url": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/.imports/.temp/import2118440547/nativebindings/iOS/11.4/KonyAcuant-iOS-11.4.zip",
-                    "filepath": "/Users/faizankhalidi/Kony Visualizer/konyworkspace/Loans/nativebindings/iOS/11.4/KonyAcuant-iOS-11.4.zip",
-                    "enable": true
-                }
-            }
+            "11.4": {}
         },
         "Android": {
             "4.0": {

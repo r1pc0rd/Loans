@@ -13,5 +13,5 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("frmDashboardKA");
         ntf.navigate();
-    }
+    },
 });

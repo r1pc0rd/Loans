@@ -33,27 +33,22 @@ define({
         var ntf = new kony.mvc.Navigation("frmDashboardNewKA");
         ntf.navigate();
     },
-    /** onclick defined for undefined **/
-    AS_BarButtonItem_e801800aa237489aab06199331dd91d6: function AS_BarButtonItem_e801800aa237489aab06199331dd91d6(eventobject) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmPreLoginKA");
-        ntf.navigate();
-    },
-    /** preshow defined for frmMyApplicationsKA **/
-    AS_Form_d88d319a9fba4e869424a81b69a0e905: function AS_Form_d88d319a9fba4e869424a81b69a0e905(eventobject) {
-        var self = this;
-        this.onPreShow();
-    },
-    /** onClick defined for flxAboutUsKA **/
+    /** onclick defined for flxAboutUsKA **/
     AS_FlexContainer_d6b8a7c966514419a925da37f05f2d35: function AS_FlexContainer_d6b8a7c966514419a925da37f05f2d35(eventobject) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmMyApplicationsKA");
         ntf.navigate();
     },
-    /** onClick defined for flxNotificationsKA **/
+    /** onclick defined for flxNotificationsKA **/
     AS_FlexContainer_d338509eaf774f8396f9aee5afc2cc0a: function AS_FlexContainer_d338509eaf774f8396f9aee5afc2cc0a(eventobject) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmLocatorKA");
+        ntf.navigate();
+    },
+    /** onclick defined for undefined **/
+    AS_BarButtonItem_e801800aa237489aab06199331dd91d6: function AS_BarButtonItem_e801800aa237489aab06199331dd91d6(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmPreLoginKA");
         ntf.navigate();
     }
 });

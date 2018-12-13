@@ -43,7 +43,7 @@ define({
         this.onClickOfLogin(this.view.tbxUserNameKA.text, this.view.tbxPasswordKA.text);
     },
     /** onrowclick defined for segLoanTypesKA **/
-    AS_Segment_e0c2e6028a5c4c3b8755dbe755121c5b: function AS_Segment_e0c2e6028a5c4c3b8755dbe755121c5b(eventobject, sectionNumber, rowNumber) {
+    AS_Segment_b1232c6560f540bdbb1df4708ed5c31b: function AS_Segment_b1232c6560f540bdbb1df4708ed5c31b(eventobject, sectionNumber, rowNumber) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmPreLoginPersonalLoanKA");
         ntf.navigate();
@@ -52,22 +52,5 @@ define({
     AS_FlexScrollContainer_ab9f9be36b9048d993d35f9d702407d2: function AS_FlexScrollContainer_ab9f9be36b9048d993d35f9d702407d2(eventobject) {
         var self = this;
         this.onScrollEnd();
-    },
-    /** preshow defined for frmPreLoginKA **/
-    AS_Form_d7543891f9d341b18aaff9d8ef389a81: function AS_Form_d7543891f9d341b18aaff9d8ef389a81(eventobject) {
-        var self = this;
-        this.view.flxMainKA.showFadingEdges = false;
-        this.view.flxPreLoginDashboardKA.showFadingEdges = false;
-    },
-    /** postshow defined for frmPreLoginKA **/
-    AS_Form_f070af3b96c1438a89356660c6a2bfff: function AS_Form_f070af3b96c1438a89356660c6a2bfff(eventobject) {
-        var self = this;
-        this.frmPreLoginKApostShow();
-    },
-    /** onRowClick defined for segLoanTypesKA **/
-    AS_Segment_b1232c6560f540bdbb1df4708ed5c31b: function AS_Segment_b1232c6560f540bdbb1df4708ed5c31b(eventobject, sectionNumber, rowNumber) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmPreLoginPersonalLoanKA");
-        ntf.navigate();
     }
 });

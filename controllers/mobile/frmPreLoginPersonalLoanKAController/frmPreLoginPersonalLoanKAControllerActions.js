@@ -30,10 +30,5 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("frmLoginKA");
         ntf.navigate();
-    },
-    /** preshow defined for frmPreLoginPersonalLoanKA **/
-    AS_Form_f344f7a4f16c473d90b30c3872d28700: function AS_Form_f344f7a4f16c473d90b30c3872d28700(eventobject) {
-        var self = this;
-        this.PreLoginpreShowKA();
     }
 });

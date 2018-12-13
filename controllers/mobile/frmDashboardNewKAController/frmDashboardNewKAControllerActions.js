@@ -36,39 +36,28 @@ define({
         var self = this;
         this.visibleAndroidMenu();
     },
+    /** onclick defined for flxHomeKA **/
+    AS_FlexContainer_f5fbac1f58b744d2865f4e9e481b14a5: function AS_FlexContainer_f5fbac1f58b744d2865f4e9e481b14a5(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmDashboardNewKA");
+        ntf.navigate();
+    },
     /** onclick defined for flxAboutUsKA **/
-    AS_FlexContainer_ef385e1844014e74a5d0dcb2af81d29b: function AS_FlexContainer_ef385e1844014e74a5d0dcb2af81d29b(eventobject) {
+    AS_FlexContainer_e4d1f1c831784fdc9ea136ef8a1dfbf9: function AS_FlexContainer_e4d1f1c831784fdc9ea136ef8a1dfbf9(eventobject) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmMyApplicationsKA");
+        ntf.navigate();
+    },
+    /** onclick defined for flxNotificationsKA **/
+    AS_FlexContainer_d77418006142495ab3a597b0073a427c: function AS_FlexContainer_d77418006142495ab3a597b0073a427c(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmLocatorKA");
         ntf.navigate();
     },
     /** onclick defined for undefined **/
     AS_BarButtonItem_c80ef0dc6b4e4b9088874e69cdac575e: function AS_BarButtonItem_c80ef0dc6b4e4b9088874e69cdac575e(eventobject) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmPreLoginKA");
-        ntf.navigate();
-    },
-    /** preshow defined for frmDashboardNewKA **/
-    AS_Form_c4fbafa6958f45b4902f13ea1cd7cf55: function AS_Form_c4fbafa6958f45b4902f13ea1cd7cf55(eventobject) {
-        var self = this;
-        this.frmDashboardKAPreShow();
-    },
-    /** onClick defined for flxHomeKA **/
-    AS_FlexContainer_f5fbac1f58b744d2865f4e9e481b14a5: function AS_FlexContainer_f5fbac1f58b744d2865f4e9e481b14a5(eventobject) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmDashboardNewKA");
-        ntf.navigate();
-    },
-    /** onClick defined for flxAboutUsKA **/
-    AS_FlexContainer_e4d1f1c831784fdc9ea136ef8a1dfbf9: function AS_FlexContainer_e4d1f1c831784fdc9ea136ef8a1dfbf9(eventobject) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmMyApplicationsKA");
-        ntf.navigate();
-    },
-    /** onClick defined for flxNotificationsKA **/
-    AS_FlexContainer_d77418006142495ab3a597b0073a427c: function AS_FlexContainer_d77418006142495ab3a597b0073a427c(eventobject) {
-        var self = this;
-        var ntf = new kony.mvc.Navigation("frmLocatorKA");
         ntf.navigate();
     }
 });

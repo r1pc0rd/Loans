@@ -6,10 +6,10 @@
     "defaultlocalekey": "en_US",
     "apppackagekey": "",
     "nativeContainerProperties": {
-        "isEnableJSContainerAndroid": true,
         "isModified": true,
-        "isEnableJSContaineriOS": true,
-        "isEnableJSContainer": true
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
     },
     "wap_android400_fontsize": "14",
     "wap_spaandroidtabhdpi_fontsize": "16",
@@ -180,7 +180,7 @@
     "defaulttheme": "defaultTheme",
     "enableResponsive": true,
     "appaddrkey": "",
-    "appnamekey": "Loans",
+    "appnamekey": "TestApp",
     "currentgaversion": "8.3.8",
     "wap_bb320_fontsize": "15",
     "wap_bb240_fontsize": "12",
@@ -200,5 +200,36 @@
     "wap_ip_fontsize": "12",
     "ipadlandscapemodekey": "portrait",
     "category": "app",
-    "createdVizVersion": "8.2.0"
+    "createdVizVersion": "8.2.0",
+    "isA11yConfigEnabled": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "enableCordova": false,
+    "enableIdForAutomation": false,
+    "cordovaModified": false,
+    "watchos_shortlooknotificationicon_42": "",
+    "statusBarHidden": "false",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_companionSettings3x29": "",
+    "watchos_homeScreen40": "",
+    "watchos_companionSettings2x29": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_watchMarketing1x": "",
+    "enableactionbar": false,
+    "enableProgressiveWeb": false,
+    "enablexfsdw": false,
+    "enableasyncdesktopweb": false,
+    "enableasyncspa": false,
+    "enablexfsspa": false,
+    "kfAppInfo": {
+        "aafb8ef7-f5bb-406d-a4f3-a1b3b79d9109": {
+            "id": "94c8ca40-6718-45cf-80ac-e32f68d69c2c",
+            "baseId": "94c8ca40-6718-45cf-80ac-e32f68d69c2c",
+            "appName": "Loans",
+            "version": "1.0"
+        }
+    }
 }
