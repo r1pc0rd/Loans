@@ -150,7 +150,7 @@
     <attributes name="wp10pfxkey" value=""/>
     <attributes name="ACCESS_CHECKIN_PROPERTIES" value="false"/>
     <attributes name="MOUNT_FORMAT_FILESYSTEMS" value="false"/>
-    <attributes name="lastmodifiedtime" value="1544666750663"/>
+    <attributes name="lastmodifiedtime" value="1544716589208"/>
     <attributes name="ipad_notificationicon_1x_20" value=""/>
     <attributes name="iphone_spotlighticon_2x_40" value=""/>
     <attributes name="wp10microphone" value="false"/>
@@ -364,7 +364,7 @@
     <attributes name="ANDROIDWEAR_FORCE_BACK" value="false"/>
     <attributes name="bb10urlscheme" value=""/>
     <attributes name="apppackagekey" value="com.orgname.TestApp"/>
-    <attributes name="andtargetsdkkey" value="4.0 (14)"/>
+    <attributes name="andtargetsdkkey" value="7.1 (25)"/>
     <attributes name="win8bgagentclassname" value=""/>
     <attributes name="wp81sdescriptionkey" value="Sample Test Application"/>
     <attributes name="ANDROIDWEAR_WRITE_SMS" value="false"/>
@@ -419,7 +419,7 @@
     <attributes name="SIGNAL_PERSISTENT_PROCESSES" value="false"/>
     <attributes name="desktopwebbasefontsize" value="16"/>
     <attributes name="REORDER_TASKS" value="false"/>
-    <attributes name="andminsdkkey" value="4.0 (14)"/>
+    <attributes name="andminsdkkey" value="6.0 (23)"/>
     <attributes name="Proximity" value="true"/>
     <attributes name="androidscreenresizeable" value="false"/>
     <attributes name="ANDROIDWEAR_DIAGNOSTIC" value="false"/>
@@ -720,6 +720,5 @@
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="ANDROIDWEAR_WRITE_SYNC_SETTINGS" value="false"/>
     <attributes name="spaandroidtab800basefontsize" value="17"/>
-    <attributes name="isLibraryBuild" value="false"/>
     <attributes name="defaultlocalekey" value="en_US"/>
 </properties>
